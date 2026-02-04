@@ -12,6 +12,12 @@
 
 ### youtube-video
 
+- [銷售超過8萬份的酪梨純愛遊戲 ?\! 這款作品為什麼這麼強 ? 【酪梨好好吃】 \- YouTube](<https://www.youtube.com/watch?v=89ZUjfKw-88>) | [note](<youtube/youtube-video/youtube-video-89ZUjfKw-88.md>)
+- [這款網遊九成以上角色都是酪梨 \! 這款遊戲真的沒問題嗎?](<https://www.youtube.com/watch?v=qM-8TtSMS04>) | [note](<youtube/youtube-video/youtube-video-qM-8TtSMS04.md>)
+- [【枫说】洗脑程度测试：盘点中共打进人们脑海中的十个思想钢印。连马斯克都中招了](<https://www.youtube.com/watch?v=m0WEYBL538I>) | [note](<youtube/youtube-video/youtube-video-m0WEYBL538I.md>)
+- [马斯克等大佬是怎么记住这么多知识的？【考试脑科学】](<https://www.youtube.com/watch?v=VSe7Uhi4jTQ>) | [note](<youtube/youtube-video/youtube-video-VSe7Uhi4jTQ.md>)
+- [I'm 57\. If you're in your 20's please watch this\.](<https://www.youtube.com/watch?v=FylHa4_neOA>) | [note](<youtube/youtube-video/youtube-video-FylHa4_neOA.md>)
+
 #### [銷售超過8萬份的酪梨純愛遊戲 ?\! 這款作品為什麼這麼強 ? 【酪梨好好吃】 \- YouTube](<https://www.youtube.com/watch?v=89ZUjfKw-88>) | [note](<youtube/youtube-video/youtube-video-89ZUjfKw-88.md>)
 
 遊戲名稱 : 幸福家里蹲的養成方法 遊戲購買 : DLsite 🔔小宇的各種社群網站‣‣https://linktr.ee/holyloliempire 🔔免費領取DLsite優惠券‣‣https://reurl.cc/zpovk6 🔔神聖蘿碼帝國DC群‣‣ https://discord.gg/SWWWK9b...
@@ -216,6 +222,11 @@ Created at: 2024-11-22T21:32:53+08:00
 
 ### youtube-channel
 
+- [Mark Tilbury](<https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA>) | [note](<youtube/youtube-channel/youtube-channel-UCxgAuX3XZROujMmGphN_scA.md>)
+- [神聖蘿碼帝國\-小宇🔞](<https://www.youtube.com/channel/UCXlXvZRqoiSFso7hfoAnw3Q>) | [note](<youtube/youtube-channel/youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q.md>)
+- [多伦多方脸](<https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg>) | [note](<youtube/youtube-channel/youtube-channel-UCzYYzigb1vXR0GQXXBja2kg.md>)
+- [安争鸣（Stella An）](<https://www.youtube.com/channel/UCBNpk9A7simOnmlcJPkxg5w>) | [note](<youtube/youtube-channel/youtube-channel-UCBNpk9A7simOnmlcJPkxg5w.md>)
+
 #### [Mark Tilbury](<https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA>) | [note](<youtube/youtube-channel/youtube-channel-UCxgAuX3XZROujMmGphN_scA.md>)
 
 I firmly believe that anyone who learns the skill sets of a millionaire can become a millionaire, ANYONE...
@@ -295,6 +306,16 @@ Created at: 2024-11-28T16:57:07+08:00
 ## bilibili
 
 ### bilibili-video
+
+- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<https://www.bilibili.com/video/BV1L3zFBWEFV>) | [note](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>)
+- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<https://www.bilibili.com/video/BV1W9zyBaEf2/>) | [note](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>)
+- [博学方法：如何掌握任何技能！\_哔哩哔哩\_bilibili](<https://www.bilibili.com/video/BV1DsgEz5E9s>) | [note](<bilibili/bilibili-video/bilibili-video-BV1DsgEz5E9s.md>)
+- [【彩色修复】1933年希特勒总理就职演讲完整版，令人不寒而栗\_哔哩哔哩\_bilibili](<https://www.bilibili.com/video/BV1V5p4zMEHW>) | [note](<bilibili/bilibili-video/bilibili-video-BV1V5p4zMEHW.md>)
+- [40年前那个令人窒息的红色帝国\_哔哩哔哩\_bilibili](<https://www.bilibili.com/video/BV1r5411W7JG>) | [note](<bilibili/bilibili-video/bilibili-video-BV1r5411W7JG.md>)
+- [乡间的暑假生活，这光把男主介绍给全村人就十几分钟，我的天。。。。。。\_单机游戏热门视频\_哔哩哔哩\_bilibili](<https://www.bilibili.com/video/BV1Fv411N7Rq>) | [note](<bilibili/bilibili-video/bilibili-video-BV1Fv411N7Rq.md>)
+- [伊吹：当天的错误就要当天教育哦\_哔哩哔哩\_bilibili](<https://www.bilibili.com/video/BV1JSr7YZE1V>) | [note](<bilibili/bilibili-video/bilibili-video-BV1JSr7YZE1V.md>)
+- [真可爱捏~\_哔哩哔哩\_bilibili](<https://www.bilibili.com/video/BV1u3411a7qy>) | [note](<bilibili/bilibili-video/bilibili-video-BV1u3411a7qy.md>)
+- [【数学杂谈】硬核模式学数学？你欧拉转世吗？\_哔哩哔哩\_bilibili](<https://www.bilibili.com/video/BV1X1BCY1EHp>) | [note](<bilibili/bilibili-video/bilibili-video-BV1X1BCY1EHp.md>)
 
 #### [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<https://www.bilibili.com/video/BV1L3zFBWEFV>) | [note](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>)
 
@@ -547,6 +568,10 @@ Created at: 2025-01-28T15:26:29+08:00
 
 ### bilibili-bangumi
 
+- [创新中国](<https://www.bilibili.com/bangumi/media/md58712>) | [note](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md58712.md>)
+- [大国崛起](<https://www.bilibili.com/bangumi/play/ep395183>) | [note](<bilibili/bilibili-bangumi/bilibili-bangumi-play-ep395183.md>)
+- [短路的大脑](<https://www.bilibili.com/bangumi/play/ep291151>) | [note](<bilibili/bilibili-bangumi/bilibili-bangumi-play-ep291151.md>)
+
 #### [创新中国](<https://www.bilibili.com/bangumi/media/md58712>) | [note](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md58712.md>)
 
 《创新中国》是一部讲述中国最新科技成就和创新精神的纪录片。它关注最前沿的科学突破、最新潮的科技热点，聚焦信息技术、新型能源、中国制造、生命科学、航空航天与海洋探索等前沿领域，用鲜活的故事记录当下中国伟大的创新实践。
@@ -633,6 +658,24 @@ Created at: 2025-02-07T22:20:18+08:00
 | mtime | 2025-11-19T15:13:00+08:00 |
 
 ### bilibili-user
+
+- [道一又道](<https://space.bilibili.com/3546706654268153>) | [note](<bilibili/bilibili-user/bilibili-user-3546706654268153.md>)
+- [认知刺客](<https://space.bilibili.com/3546966132787579>) | [note](<bilibili/bilibili-user/bilibili-user-3546966132787579.md>)
+- [YouTube精选速递](<https://space.bilibili.com/36141489/>) | [note](<bilibili/bilibili-user/bilibili-user-36141489.md>)
+- [原子能](<https://space.bilibili.com/162183>) | [note](<bilibili/bilibili-user/bilibili-user-162183.md>)
+- [杨雨坤\-Yukun](<https://space.bilibili.com/339833006>) | [note](<bilibili/bilibili-user/bilibili-user-339833006.md>)
+- [茄子蒜泥儿](<https://space.bilibili.com/98695167>) | [note](<bilibili/bilibili-user/bilibili-user-98695167.md>)
+- [bili\_62511222486](<https://space.bilibili.com/689888414>) | [note](<bilibili/bilibili-user/bilibili-user-689888414.md>)
+- [铁打的郎中](<https://space.bilibili.com/413597883>) | [note](<bilibili/bilibili-user/bilibili-user-413597883.md>)
+- [Chubbyemu](<https://space.bilibili.com/297786973>) | [note](<bilibili/bilibili-user/bilibili-user-297786973.md>)
+- [历史影像馆](<https://space.bilibili.com/269115278>) | [note](<bilibili/bilibili-user/bilibili-user-269115278.md>)
+- [瑛之诗](<https://space.bilibili.com/143432483>) | [note](<bilibili/bilibili-user/bilibili-user-143432483.md>)
+- [隅野贝](<https://space.bilibili.com/34106682>) | [note](<bilibili/bilibili-user/bilibili-user-34106682.md>)
+- [PiKaChu345](<https://space.bilibili.com/180947374>) | [note](<bilibili/bilibili-user/bilibili-user-180947374.md>)
+- [3Blue1Brown](<https://space.bilibili.com/88461692>) | [note](<bilibili/bilibili-user/bilibili-user-88461692.md>)
+- [风辰琳雪儿](<https://space.bilibili.com/104880307>) | [note](<bilibili/bilibili-user/bilibili-user-104880307.md>)
+- [伊吹继续生](<https://space.bilibili.com/3493079608723871>) | [note](<bilibili/bilibili-user/bilibili-user-3493079608723871.md>)
+- [阿尔弗雷特\-科尔托](<https://space.bilibili.com/47218557>) | [note](<bilibili/bilibili-user/bilibili-user-47218557.md>)
 
 #### [道一又道](<https://space.bilibili.com/3546706654268153>) | [note](<bilibili/bilibili-user/bilibili-user-3546706654268153.md>)
 

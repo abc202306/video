@@ -468,7 +468,7 @@ class Collection {
     }
 
     static getMOCData(folderPath: string): (AstNode | string)[] {
-        const nodes: (AstNode | string)[] = app.vault.getMarkdownFiles()
+        const nodeArrArr: (AstNode | string)[][] = app.vault.getMarkdownFiles()
             .filter((file: any) => file.path.startsWith(folderPath))
             .map((file: any) => {
                 const cache = app.metadataCache.getFileCache(file);
@@ -485,7 +485,11 @@ class Collection {
                     }, {} as any);
                 return { day, month, year, path: file.path, title, url, ctime, description, tags: ([...safeArray(fmTags), ...fileTags] as any).filter(Boolean).unique(), image: cover || icon, comment, keywords, categories, note } as ItemData;
             }).sort((a: ItemData, b: ItemData) => b.ctime.localeCompare(a.ctime))
-            .flatMap(Collection.parseItemDatatoAstNodeArray);
+            .map(Collection.parseItemDatatoAstNodeArray);
+        const nodes: (AstNode | string)[] = [
+            ul(...nodeArrArr.map(nodeArr => li(p(...(nodeArr[0] as AstNode).children)))), 
+            ...nodeArrArr.flatMap(nodeArr => nodeArr)
+        ];
 
         return [h(3, mdText((folderPath.split("/").filter(part => part.length !== 0).at(-1) || "").replace(/\/$/, ""))), ...nodes];
     }
