@@ -1,7 +1,7 @@
 ---
 up:
   - "[[collection-youtube-channel|collection-youtube-channel]]"
-title: Mark Tilbury
+title: Mark Tilbury - YouTube
 url: https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA
 description: I firmly believe that anyone who learns the skill sets of a millionaire can become a millionaire, ANYONE...
 tags:
@@ -9,9 +9,9 @@ tags:
 comment:
 icon: "[[youtube-channel-UCxgAuX3XZROujMmGphN_scA.jpg]]"
 works:
-  - "[[youtube-video-FylHa4_neOA|I'm 57. If you're in your 20's please watch this.]]"
+  - "[[youtube-video-FylHa4_neOA|I'm 57. If you're in your 20's please watch this. - YouTube]]"
 aliases:
-  - Mark Tilbury
+  - Mark Tilbury - YouTube
 ctime: 2026-02-04T00:54:50+08:00
 mtime: 2026-02-04T00:54:50+08:00
 ---

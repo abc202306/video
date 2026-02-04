@@ -1,7 +1,7 @@
 ---
 up:
   - "[[collection-bilibili-user|collection-bilibili-user]]"
-title: 3Blue1Brown
+title: 3Blue1Brown-bilibili-哔哩哔哩
 url: https://space.bilibili.com/88461692
 description: 中国官方账号。深入浅出、直观明了地分享数学之美。资助页面：www.patreon.com/3blue1brown
 tags:
@@ -14,7 +14,7 @@ bulletin: 3Blue1Brown中国官方账号。深入浅出、直观明了地分享�
 icon: "[[bilibili-user-88461692.png|bilibili-user-88461692.png]]"
 works:
 aliases:
-  - 3Blue1Brown
+  - 3Blue1Brown-bilibili-哔哩哔哩
 ctime: 2025-08-16T21:52:30+08:00
 mtime: 2025-11-11T15:19:42+08:00
 ---

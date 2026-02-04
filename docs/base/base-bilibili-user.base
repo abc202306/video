@@ -40,8 +40,7 @@ views:
       - formula.url2
       - description
       - bulletin
-      - bilibilivideos
-      - markeditems
+      - works
     sort:
       - property: file.name
         direction: ASC
@@ -52,6 +51,7 @@ views:
       file.name: 46
       note.title: 138
       note.categories: 141
+      note.bulletin: 171
   - type: cards
     name: DetailedCards
     order:

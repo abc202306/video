@@ -1,7 +1,7 @@
 ---
 up:
   - "[[collection-bilibili-user|collection-bilibili-user]]"
-title: Chubbyemu
+title: Chubbyemu-bilibili-哔哩哔哩
 url: https://space.bilibili.com/297786973
 description: 胖鸸鹋Chubbyemu官方频道~商务合作请联系邮箱 hello@Chubbyemu.com
 tags:
@@ -14,8 +14,8 @@ bulletin: I make medical videos, telling stories in medicine. These are variatio
 icon: "[[bilibili-user-297786973.png|bilibili-user-297786973.png]]"
 works:
 aliases:
-  - 胖鹈鹕
-  - Chubbyemu
+  - 胖鹈鹕-bilibili-哔哩哔哩
+  - Chubbyemu-bilibili-哔哩哔哩
 ctime: 2025-10-05T01:44:29+08:00
 mtime: 2025-11-11T15:19:42+08:00
 ---

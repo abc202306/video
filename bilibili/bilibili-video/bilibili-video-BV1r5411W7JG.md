@@ -9,7 +9,7 @@ categories:
   - "[[clc-k|K]]"
 comment: BGM：Dmitriy Emelianov-Fusillade(Part I)
 authors:
-  - "[[bilibili-user-98695167|茄子蒜泥儿]]"
+  - "[[bilibili-user-98695167|茄子蒜泥儿-bilibili-哔哩哔哩]]"
 cover: "[[bilibili-video-BV1r5411W7JG-p1.png|bilibili-video-BV1r5411W7JG-p1.png]]"
 images:
 aliases:

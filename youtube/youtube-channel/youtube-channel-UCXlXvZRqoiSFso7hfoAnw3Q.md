@@ -1,7 +1,7 @@
 ---
 up:
   - "[[collection-youtube-channel|collection-youtube-channel]]"
-title: 神聖蘿碼帝國-小宇🔞
+title: 神聖蘿碼帝國-小宇🔞 - YouTube
 url: https://www.youtube.com/channel/UCXlXvZRqoiSFso7hfoAnw3Q
 description: "哈囉 大家好 我是小宇<br>歡迎來到我的頻道神聖蘿碼帝國~ <br>每周都會有黃油介紹的影片 可以加入我的DC群組成為蘿碼帝國的國民!<br><br>廠商有任何工商需求都可以透過信箱聯絡我~<br>Gamil : holyloliempire@gmail.com"
 tags:
@@ -11,10 +11,10 @@ tags:
 comment:
 icon: "[[youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q.jpg]]"
 works:
-  - "[[youtube-video-qM-8TtSMS04|這款網遊九成以上角色都是酪梨 ! 這款遊戲真的沒問題嗎?]]"
+  - "[[youtube-video-qM-8TtSMS04|這款網遊九成以上角色都是酪梨 ! 這款遊戲真的沒問題嗎? - YouTube]]"
   - "[[youtube-video-89ZUjfKw-88|銷售超過8萬份的酪梨純愛遊戲 ?! 這款作品為什麼這麼強 ? 【酪梨好好吃】 - YouTube]]"
 aliases:
-  - 神聖蘿碼帝國-小宇🔞
+  - 神聖蘿碼帝國-小宇🔞 - YouTube
 ctime: 2026-02-02T02:09:25+08:00
 mtime: 2026-02-02T02:09:25+08:00
 note-icon-raw: https://yt3.googleusercontent.com/Fj_Rc_FCNT5jDS_lQFojxKdCeO7oA-QhYYtCRoLHBl5dGn-0osP5nopB6ww3cQrcliG5TwdsBA=s900-c-k-c0x00ffffff-no-rj

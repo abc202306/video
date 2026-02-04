@@ -1,7 +1,7 @@
 ---
 up:
   - "[[collection-youtube-video|collection-youtube-video]]"
-title: 【枫说】洗脑程度测试：盘点中共打进人们脑海中的十个思想钢印。连马斯克都中招了
+title: 【枫说】洗脑程度测试：盘点中共打进人们脑海中的十个思想钢印。连马斯克都中招了 - YouTube
 url: https://www.youtube.com/watch?v=m0WEYBL538I
 description: 请大家帮忙订阅、点赞、评论，谢谢！成为此频道的会员即可获享以下福利：https://www.youtube.com/channel/UCgdGtFg63SjhXXDLJveCCcg/join备用平台：https://www.patreon.com/dkctyb3344防失联Twitter：https://x.co...
 tags:
@@ -12,7 +12,7 @@ comment: 前提假设：<br>1. 凡是革命都是正义的。<br>2. 中共的执
 cover: "[[youtube-video-m0WEYBL538I.jpg]]"
 authors:
 aliases:
-  - 【枫说】洗脑程度测试：盘点中共打进人们脑海中的十个思想钢印。连马斯克都中招了
+  - 【枫说】洗脑程度测试：盘点中共打进人们脑海中的十个思想钢印。连马斯克都中招了 - YouTube
 ctime: 2025-01-11T19:26:32+08:00
 mtime: 2025-11-09T22:24:12+08:00
 ---

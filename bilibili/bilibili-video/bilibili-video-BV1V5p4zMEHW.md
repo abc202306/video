@@ -9,7 +9,7 @@ categories:
   - "[[clc-k|K]]"
 comment: "music: 【Myself】 历史影像馆歌单 - MusicList"
 authors:
-  - "[[bilibili-user-269115278|历史影像馆]]"
+  - "[[bilibili-user-269115278|历史影像馆-bilibili-哔哩哔哩]]"
 cover: "[[bilibili-video-BV1V5p4zMEHW-p1.png|bilibili-video-BV1V5p4zMEHW-p1.png]]"
 images:
 aliases:

@@ -41,3 +41,8 @@ views:
     cardSize: 200
     imageAspectRatio: 0.6
     indentProperties: true
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - authors

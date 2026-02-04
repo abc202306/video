@@ -10,7 +10,7 @@ categories:
   - "[[clc-j2|J2]]"
 comment:
 authors:
-  - "[[bilibili-user-3493079608723871|伊吹继续生]]"
+  - "[[bilibili-user-3493079608723871|伊吹继续生-bilibili-哔哩哔哩]]"
 cover: "[[bilibili-video-BV1JSr7YZE1V-p1.png|bilibili-video-BV1JSr7YZE1V-p1.png]]"
 images:
 aliases:

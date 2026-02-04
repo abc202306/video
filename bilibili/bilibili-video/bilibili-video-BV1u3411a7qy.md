@@ -10,7 +10,7 @@ categories:
   - "[[clc-j2|J2]]"
 comment: んぬ P 站 ID：4103937<br>ふぇありぃあい P 站 ID：1055457<br>わき P 站 ID：2609622
 authors:
-  - "[[bilibili-user-47218557|阿尔弗雷特-科尔托]]"
+  - "[[bilibili-user-47218557|阿尔弗雷特-科尔托-bilibili-哔哩哔哩]]"
 cover: "[[bilibili-video-BV1u3411a7qy-p1.png|bilibili-video-BV1u3411a7qy-p1.png]]"
 images:
   - "[[bilibili-video-BV1u3411a7qy-p1.png]]"

@@ -13,7 +13,7 @@ tags:
 comment: "遊戲名稱 : 幸福家里蹲的養成方法"
 cover: "[[youtube-video-89ZUjfKw-88.jpg]]"
 authors:
-  - "[[youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q|神聖蘿碼帝國-小宇🔞]]"
+  - "[[youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q|神聖蘿碼帝國-小宇🔞 - YouTube]]"
 aliases:
   - 銷售超過8萬份的酪梨純愛遊戲 ?! 這款作品為什麼這麼強 ? 【酪梨好好吃】 - YouTube
 ctime: 2026-02-04T00:26:27+08:00

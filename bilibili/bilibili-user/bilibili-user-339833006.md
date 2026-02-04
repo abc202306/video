@@ -1,7 +1,7 @@
 ---
 up:
   - "[[collection-bilibili-user|collection-bilibili-user]]"
-title: 杨雨坤-Yukun
+title: 杨雨坤-Yukun-bilibili-哔哩哔哩
 url: https://space.bilibili.com/339833006
 description: CS PhD Student | 女儿4岁
 tags:
@@ -12,7 +12,7 @@ bulletin:
 icon: "[[bilibili-user-339833006.webp|bilibili-user-339833006.webp]]"
 works:
 aliases:
-  - 杨雨坤-Yukun
+  - 杨雨坤-Yukun-bilibili-哔哩哔哩
 ctime: 2025-11-08T21:43:06+08:00
 mtime: 2025-11-14T10:15:36+08:00
 ---

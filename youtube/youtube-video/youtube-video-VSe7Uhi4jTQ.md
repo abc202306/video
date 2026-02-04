@@ -1,7 +1,7 @@
 ---
 up:
   - "[[collection-youtube-video|collection-youtube-video]]"
-title: 马斯克等大佬是怎么记住这么多知识的？【考试脑科学】
+title: 马斯克等大佬是怎么记住这么多知识的？【考试脑科学】 - YouTube
 url: https://www.youtube.com/watch?v=VSe7Uhi4jTQ
 description: 如果学习方法存在问题，即使身边有再多的知识，对我们来说也不过是无意义的信息而已。如果你对汲取知识有着同样的疑惑，那本期视频，我们将一起去探索人类的大脑，学习如何记住自己读过的书！📮我的日常思考与灵感：https://theharry.notion.site🎬章节：00:00 引入01:20 长期记忆与短期记忆...
 tags:
@@ -10,7 +10,7 @@ comment: Nov 27, 2024<br><br>如果学习方法存在问题，即使身边有再
 cover: "[[youtube-video-VSe7Uhi4jTQ.jpg]]"
 authors:
 aliases:
-  - 马斯克等大佬是怎么记住这么多知识的？【考试脑科学】
+  - 马斯克等大佬是怎么记住这么多知识的？【考试脑科学】 - YouTube
 ctime: 2024-11-28T16:12:44+08:00
 mtime: 2025-11-09T22:24:12+08:00
 ---

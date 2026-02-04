@@ -1,7 +1,7 @@
 ---
 up:
   - "[[collection-bilibili-user|collection-bilibili-user]]"
-title: 瑛之诗
+title: 瑛之诗-bilibili-哔哩哔哩
 url: https://space.bilibili.com/143432483
 description: 进群自取
 tags:
@@ -14,7 +14,7 @@ bulletin:
 icon: "[[bilibili-user-143432483.png|bilibili-user-143432483.png]]"
 works:
 aliases:
-  - 瑛之诗
+  - 瑛之诗-bilibili-哔哩哔哩
 ctime: 2025-09-16T07:51:03+08:00
 mtime: 2025-11-11T15:19:42+08:00
 note-qq-group:

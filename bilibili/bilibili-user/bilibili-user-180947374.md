@@ -1,7 +1,7 @@
 ---
 up:
   - "[[collection-bilibili-user|collection-bilibili-user]]"
-title: PiKaChu345
+title: PiKaChu345-bilibili-哔哩哔哩
 url: https://space.bilibili.com/180947374
 description: 是时候给频道上点强度了
 tags:
@@ -15,7 +15,7 @@ icon: "[[bilibili-user-180947374.png|bilibili-user-180947374.png]]"
 works:
   - "[[bilibili-video-BV1X1BCY1EHp|【数学杂谈】硬核模式学数学？你欧拉转世吗？_哔哩哔哩_bilibili]]"
 aliases:
-  - PiKaChu345
+  - PiKaChu345-bilibili-哔哩哔哩
 ctime: 2025-08-16T21:53:51+08:00
 mtime: 2025-11-11T15:19:42+08:00
 ---

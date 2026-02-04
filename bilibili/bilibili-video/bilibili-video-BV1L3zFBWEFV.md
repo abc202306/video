@@ -25,7 +25,7 @@ categories:
   - "[[clc-g|G]]"
 comment: 1. 为什么要做文献阅读<br>2. 如何做好文献阅读<br>3. 如何做好笔记整理
 authors:
-  - "[[bilibili-user-3546706654268153|道一又道]]"
+  - "[[bilibili-user-3546706654268153|道一又道-bilibili-哔哩哔哩]]"
 cover: "[[bilibili-video-BV1L3zFBWEFV.jpg]]"
 images:
 aliases:
