@@ -1,0 +1,40 @@
+filters:
+  and:
+    - up.containsAny(link("collection-youtube-channel"))
+    - file.inFolder("youtube/youtube-channel")
+formulas:
+  image2: image(icon)
+  allkw: '[categories,keywords,file.tags].flat().unique().filter(value).map(if(value.startsWith("#"),value,link(value,value.toString().replace(/^\[\[(.*)\|(.*)\]\]$/,"$2"))))'
+  titlelink: link(file, title)
+views:
+  - type: cards
+    name: Cards
+    order:
+      - title
+      - description
+      - tags
+      - works
+    sort:
+      - property: ctime
+        direction: DESC
+    columnSize:
+      file.name: 171
+    image: formula.image2
+    imageFit: contain
+    cardSize: 200
+  - type: list
+    name: List
+    order:
+      - formula.titlelink
+      - description
+      - tags
+      - works
+    sort:
+      - property: ctime
+        direction: DESC
+    columnSize:
+      file.name: 171
+    image: formula.image2
+    imageFit: contain
+    cardSize: 200
+    indentProperties: true

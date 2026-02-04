@@ -1,0 +1,62 @@
+filters:
+  and:
+    - up.containsAny(link("collection-youtube-video"))
+    - file.inFolder("youtube/youtube-video")
+formulas:
+  i: ""
+  image2: image(cover)
+  allkw: '[categories,keywords,file.tags].flat().unique().filter(value).map(if(value.startsWith("#"),value,link(value,value.toString().replace(/^\[\[(.*)\|(.*)\]\]$/,"$2"))))'
+  descriptionf: ""
+  titlelink: link(file, title)
+views:
+  - type: cards
+    name: Cards
+    order:
+      - title
+      - description
+      - tags
+      - authors
+    sort:
+      - property: ctime
+        direction: DESC
+    columnSize:
+      formula.image2: 56
+      note.description: 438
+    image: formula.image2
+    imageFit: contain
+    imageAspectRatio: 0.6
+  - type: cards
+    name: Cards/排除政治标签
+    filters:
+      and:
+        - '!file.tags.contains("政治")'
+    order:
+      - title
+      - description
+      - tags
+    sort:
+      - property: ctime
+        direction: DESC
+    columnSize:
+      formula.image2: 56
+      note.description: 438
+    image: formula.image2
+    imageFit: contain
+    imageAspectRatio: 0.6
+  - type: list
+    name: List
+    order:
+      - formula.titlelink
+      - description
+      - tags
+      - authors
+    sort:
+      - property: ctime
+        direction: DESC
+    columnSize:
+      formula.image2: 56
+      note.description: 438
+    image: formula.image2
+    imageFit: contain
+    imageAspectRatio: 0.6
+    indentProperties: true

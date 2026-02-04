@@ -1,0 +1,43 @@
+filters:
+  and:
+    - file.inFolder("bilibili/bilibili-video")
+    - file.ext == "md"
+formulas:
+  image2: image(cover)
+  allkw: '[categories,keywords,file.tags].flat().unique().filter(value).map(if(value.startsWith("#"),value,link(value,value.toString().replace(/^\[\[(.*)\|(.*)\]\]$/,"$2"))))'
+  titlelink: link(file,title)
+  titleandfilename: ""
+  coverf: html("<img src=\""+cover.asFile().path+"\" style=\"width:200px;\"/>")
+  commentf: html(comment.replace(/\t/g,"&nbsp;&nbsp;&nbsp;&nbsp;").replace(/https?:\/\/\S+/g,"<a href=\"$&\">$&</a>").replace(/\!(?<wikilink>\[\[(?<path>.*?\.(png|jpg|webp|svg))\|(?<width>\d+)\]\])/g,"<img src=\"$<path>\" style=\"width:$<width>;\"/>").replace(/^## (.*?)(?=<br>)/g,"<strong>$1</strong>"))
+  otherproperies: 'html(file.properties.keys().filter(!["up", "title", "url", "description", "cover", "icon", "images", "comment", "keywords", "categories", "tags","aliases","ctime","mtime","bilibiliusers"].contains(value)).filter(file.properties[value]).map(value+": "+file.properties[value]).join("<br>"))'
+views:
+  - type: cards
+    name: Cards
+    order:
+      - title
+      - description
+      - formula.allkw
+      - comment
+      - authors
+    columnSize:
+      file.name: 106
+      note.description: 268
+    image: formula.image2
+    imageFit: contain
+    cardSize: 200
+    imageAspectRatio: 0.6
+  - type: list
+    name: List
+    order:
+      - formula.titlelink
+      - description
+      - formula.allkw
+      - authors
+    columnSize:
+      file.name: 106
+      note.description: 268
+    image: formula.image2
+    imageFit: contain
+    cardSize: 200
+    imageAspectRatio: 0.6
+    indentProperties: true

@@ -1,0 +1,80 @@
+filters:
+  and:
+    - file.inFolder("bilibili/bilibili-user")
+    - file.ext == "md"
+formulas:
+  url2: link(url,"@"+biliuserid+"@bili")
+  image01: image(icon)
+  allkw: '[categories,keywords,file.tags].flat().unique().filter(value).map(if(value.startsWith("#"),value,link(value,value.toString().replace(/^\[\[(.*)\|(.*)\]\]$/,"$2"))))'
+  titlelink: link(file,title)
+properties:
+  formula.url2:
+    displayName: url2
+views:
+  - type: cards
+    name: CardsByCategory
+    order:
+      - title
+      - description
+      - formula.allkw
+      - works
+    sort:
+      - property: ctime
+        direction: DESC
+    image: formula.image01
+    cardSize: 160
+  - type: cards
+    name: Cards
+    order:
+      - title
+    image: formula.image01
+    cardSize: 160
+  - type: table
+    name: Table
+    order:
+      - formula.image01
+      - file.name
+      - title
+      - categories
+      - keywords
+      - formula.url2
+      - description
+      - bulletin
+      - bilibilivideos
+      - markeditems
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: keywords
+        direction: ASC
+    columnSize:
+      formula.image01: 51
+      file.name: 46
+      note.title: 138
+      note.categories: 141
+  - type: cards
+    name: DetailedCards
+    order:
+      - title
+      - categories
+      - keywords
+      - formula.url2
+      - description
+      - bulletin
+      - bilibilivideos
+      - markeditems
+    sort:
+      - property: categories
+        direction: ASC
+    image: formula.image01
+    cardSize: 130
+  - type: list
+    name: List
+    order:
+      - formula.titlelink
+      - description
+      - formula.allkw
+      - works
+    image: formula.image01
+    cardSize: 160
+    indentProperties: true
