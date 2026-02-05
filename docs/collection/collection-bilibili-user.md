@@ -63,4 +63,4 @@ erDiagram
 	BilibiliUserVideoRelation ||--|{ BilibiliUser : have
 ```
 
-[[bilibili-doc-schema]]
+[[video-doc-schema]]

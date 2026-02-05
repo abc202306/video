@@ -1,0 +1,22 @@
+filters:
+  and:
+    - file.ext.containsAny("png", "jpg", "webp", "svg")
+formulas:
+  fimage: image(if(cover,cover,if(icon,icon,if(image,image,file))))
+  titlef: if(title, title, file.name)
+  imagenote: file.backlinks.map(value.asFile()).filter(value.path!="README.md").map(link(value,value.properties.title))
+views:
+  - type: cards
+    name: Cards/categories
+    groupBy:
+      property: file.folder
+      direction: ASC
+    order:
+      - file.name
+      - formula.imagenote
+    sort:
+      - property: file.ctime
+        direction: DESC
+    image: formula.fimage
+    imageAspectRatio: 0.6
+    imageFit: contain

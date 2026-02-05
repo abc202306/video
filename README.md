@@ -554,7 +554,7 @@ Created at: 2026-01-21T21:30:00+08:00
 
 No description
 
-[\#J2](<clc/clc-j2.md>), #ACG
+[\#J2](<clc/clc-j2.md>), #ACG, #美少女游戏
 
 <img src="bilibili/bilibili-video/bilibili-video-BV1Fv411N7Rq-p1.png" width=200 alt="bilibili-video-BV1Fv411N7Rq-p1.png"/>
 

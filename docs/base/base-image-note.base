@@ -1,8 +1,10 @@
 filters:
-  and:
-    - "!formula.fimage.isEmpty()"
+  or:
+    - "!cover.isEmpty()"
+    - "!icon.isEmpty()"
 formulas:
-  fimage: image(if(cover,cover,icon))
+  fimage: image(if(cover,cover,if(icon,icon,if(image,image,file))))
+  titlef: if(title, title, file.name)
 views:
   - type: cards
     name: Cards/categories
@@ -10,9 +12,11 @@ views:
       property: categories
       direction: ASC
     order:
-      - ctime
+      - formula.titlef
     sort:
       - property: ctime
+        direction: DESC
+      - property: file.ctime
         direction: DESC
     image: formula.fimage
     imageAspectRatio: 0.6

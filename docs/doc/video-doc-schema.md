@@ -1,4 +1,7 @@
-## Record Schema
+
+## bilibili
+
+### Record Schema
 
 | order | prop-name   | type       | required | chk                     | ref            | default |
 | ----- | ----------- | ---------- | -------- | ----------------------- | -------------- | ------- |
@@ -20,19 +23,19 @@
 | 16    | uploaded    | `DateTime` |          |                         |                |         |
 
 
-## Bilibili User Schema
+### Bilibili User Schema
 
 | order | prop-name     | type     | required | chk | ref | default |
 | ----- | ------------- | -------- | -------- | --- | --- | ------- |
 | 3     | bulletin      | `string` |          |     |     |         |
 
-## Bilibili Video Schema
+### Bilibili Video Schema
 
 | order | prop-name | type | required | chk | ref | default |
 | ----- | --------- | ---- | -------- | --- | --- | ------- |
 
 
-## Bilibili User Video Relation Schema
+### Bilibili User Video Relation Schema
 
 | order | prop-name     | type   | required | chk | ref                | default |
 | ----- | ------------- | ------ | -------- | --- | ------------------ | ------- |

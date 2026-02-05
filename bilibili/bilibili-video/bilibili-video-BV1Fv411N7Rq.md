@@ -6,6 +6,7 @@ url: https://www.bilibili.com/video/BV1Fv411N7Rq
 description:
 tags:
   - ACG
+  - 美少女游戏
 categories:
   - "[[clc-j2|J2]]"
 comment: "![[bilibili-video-BV1Fv411N7Rq-p1.png|200]]<br><br>[RPG] [精品 RPG/中文] 沉溺于炽热爱情的乡间隐居的哥哥与,充满古典韵味的病弱妹妹 体验版 官方中文版<br><br>![[bilibili-video-BV1Fv411N7Rq-p2.jpg|200]] ![[bilibili-video-BV1Fv411N7Rq-p3.jpg|200]]<br><br>链接：https://pan.baidu.com/s/1oSQ8h5b8eTXAvqjQBhaEGQ 提取码：r043 od： https://kd72w-my.sharepoint.com/:u:/g/personal/xingchen3_91acggod_onmicrosoft_com/EXI-OvM2QZ1Ajy95cD7UkMMB8cNTOPajJQtSi42b8b7Ngg?e=6VfrKH 解压：91acg.top<br><br>![[bilibili-video-BV1Fv411N7Rq-p4.png|200]]<br>"
