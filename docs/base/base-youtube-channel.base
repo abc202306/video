@@ -14,6 +14,12 @@ views:
       - description
       - tags
       - works
+      - url
+      - icon
+      - aliases
+      - ctime
+      - mtime
+      - comment
     sort:
       - property: ctime
         direction: DESC
@@ -22,19 +28,4 @@ views:
     image: formula.image2
     imageFit: contain
     cardSize: 200
-  - type: list
-    name: List
-    order:
-      - formula.titlelink
-      - description
-      - tags
-      - works
-    sort:
-      - property: ctime
-        direction: DESC
-    columnSize:
-      file.name: 171
-    image: formula.image2
-    imageFit: contain
-    cardSize: 200
-    indentProperties: true
+    imageAspectRatio: 0.6

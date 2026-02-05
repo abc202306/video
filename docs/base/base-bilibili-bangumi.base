@@ -14,24 +14,26 @@ views:
   - type: cards
     name: Cards
     order:
-      - title
-      - description
-      - formula.allkw
-      - comment
-    columnSize:
-      file.name: 106
-      note.description: 268
-    image: formula.image2
-    imageFit: contain
-    cardSize: 200
-    imageAspectRatio: 0.6
-  - type: list
-    name: Cards 2
-    order:
       - formula.titlelink
       - description
       - formula.allkw
       - comment
+      - ctime
+      - mtime
+      - cover
+      - url
+      - note-music
+      - note-编剧
+      - note-出品方
+      - note-出品人
+      - note-导演
+      - note-监制
+      - note-演员
+      - note-执行导演
+      - note-制作人
+    sort:
+      - property: ctime
+        direction: DESC
     columnSize:
       file.name: 106
       note.description: 268

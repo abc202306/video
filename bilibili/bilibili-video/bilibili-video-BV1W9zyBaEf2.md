@@ -16,7 +16,7 @@ categories:
 comment: 1. 论学习时间长度——西蒙学习法：用六个月可以从0到专家，并且每天一万小时定理不准确<br>2. 费曼学习法好——斯坦福记忆实验：多看几遍不如逼自己输出一遍，比如做笔记、写作和教学<br>3. 刻意学习好——高强度专注学习较长时间，从而提高有效学习的成果<br>4. 内化学习好——注重对知识的理解，在大脑中构建知识的图谱或数据库<br>5. 计划学习好——a. 将大的学习目标归约成小的学习目标；b. 构建多个学习项目的有向无环图，从而表示知识点和学习项目的先后关系；c. 执行三三制学习<br>6. 三三制学习好——用三个 30 分钟执行三个步骤： a. 输入新知识：读书和主动做笔记；b. 闭卷自我考试：在合上书时，复述学过的所有知识点，查漏补缺直到完全记住；c. 应用自己学到的知识：做题或运用自己的知识到一个案例或场景<br>7. 渐进式总结笔记法好——总结每周、每月、每年学习的知识到特定的一个文章
 authors:
   - "[[bilibili-user-3546966132787579|认知刺客-bilibili-哔哩哔哩]]"
-cover:
+cover: "[[bilibili-video-BV1W9zyBaEf2.jpg]]"
 images:
 aliases:
   - 西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。_哔哩哔哩_bilibili
@@ -24,6 +24,7 @@ ctime: 2026-01-26T14:08:00+08:00
 mtime: 2026-01-26T14:08:00+08:00
 published:
 uploaded:
+note-cover-raw: "[[bilibili-video-BV1W9zyBaEf2.jpg]]"
 ---
 
 # bilibili-video-BV1W9zyBaEf2
@@ -53,3 +54,5 @@ source-description: 本视频深度拆解西蒙学习法的底层逻辑，包括
 source-topic: 年度宝藏知识 https://m.bilibili.com/topic-detail?topic_id=1246222
 
 source-author: 认知刺客 https://space.bilibili.com/3546966132787579
+
+![[bilibili-video-BV1W9zyBaEf2.jpg|22579641c0299b63cc005244b8b5112e517eaf68.jpg (1021×577)]]

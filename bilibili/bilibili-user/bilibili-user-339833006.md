@@ -15,6 +15,8 @@ aliases:
   - 杨雨坤-Yukun-bilibili-哔哩哔哩
 ctime: 2025-11-08T21:43:06+08:00
 mtime: 2025-11-14T10:15:36+08:00
+note-birth-date: 03-06
+note-college: 西安交通大学
 ---
 
 # 杨雨坤-Yukun

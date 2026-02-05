@@ -16,6 +16,13 @@ views:
       - description
       - tags
       - authors
+      - comment
+      - url
+      - cover
+      - aliases
+      - ctime
+      - mtime
+      - note-cover-raw
     sort:
       - property: ctime
         direction: DESC
@@ -25,38 +32,3 @@ views:
     image: formula.image2
     imageFit: contain
     imageAspectRatio: 0.6
-  - type: cards
-    name: Cards/排除政治标签
-    filters:
-      and:
-        - '!file.tags.contains("政治")'
-    order:
-      - title
-      - description
-      - tags
-    sort:
-      - property: ctime
-        direction: DESC
-    columnSize:
-      formula.image2: 56
-      note.description: 438
-    image: formula.image2
-    imageFit: contain
-    imageAspectRatio: 0.6
-  - type: list
-    name: List
-    order:
-      - formula.titlelink
-      - description
-      - tags
-      - authors
-    sort:
-      - property: ctime
-        direction: DESC
-    columnSize:
-      formula.image2: 56
-      note.description: 438
-    image: formula.image2
-    imageFit: contain
-    imageAspectRatio: 0.6
-    indentProperties: true

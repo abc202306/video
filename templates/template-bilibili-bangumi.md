@@ -8,10 +8,7 @@ tags:
 categories:
 comment:
 cover:
-images:
 aliases:
 ctime: "{{date:YYYY-MM-DDTHH:mm:ssZ}}"
 mtime: "{{date:YYYY-MM-DDTHH:mm:ssZ}}"
-published:
-uploaded:
 ---

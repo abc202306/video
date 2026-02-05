@@ -19,6 +19,7 @@ ctime: 2025-09-16T07:51:03+08:00
 mtime: 2025-11-11T15:19:42+08:00
 note-qq-group:
   - "[[bilibili-related-file-藤田琴音游戏交流群（bili瑛之诗）|藤田琴音游戏交流群（bili瑛之诗）]]"
+note-birth-date: 06-06
 ---
 
 # 瑛之诗

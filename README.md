@@ -346,7 +346,7 @@ Created at: 2026-02-03T04:10:07+08:00
 
 [\#G](<clc/clc-g.md>), #费曼学习法, #刻意学习, #内化学习, #计划学习, #三三制学习, #渐进式总结笔记法, #年度宝藏知识, #西蒙学习法, #学习方法, #认知觉醒, #涨知识, #个人成长, #自我提升, #高效学习, #思维升级, #刻意练习
 
-No image
+<img src="bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.jpg" width=200 alt=""/>
 
 Created at: 2026-01-26T14:08:00+08:00
 
@@ -364,6 +364,7 @@ Created at: 2026-01-26T14:08:00+08:00
 | authors | [认知刺客\-bilibili\-哔哩哔哩](<bilibili/bilibili-user/bilibili-user-3546966132787579.md>) |
 | aliases | 西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili |
 | mtime | 2026-01-26T14:08:00+08:00 |
+| note-cover-raw | [bilibili/bilibili\-video/bilibili\-video\-BV1W9zyBaEf2\.jpg](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.jpg>)<br><img src="bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.jpg" width=200 alt=""/> |
 
 #### [博学方法：如何掌握任何技能！\_哔哩哔哩\_bilibili](<https://www.bilibili.com/video/BV1DsgEz5E9s>) | [note](<bilibili/bilibili-video/bilibili-video-BV1DsgEz5E9s.md>)
 
@@ -371,7 +372,7 @@ No description
 
 [\#G](<clc/clc-g.md>)
 
-No image
+<img src="bilibili/bilibili-video/bilibili-video-BV1DsgEz5E9s.jpg" width=200 alt=""/>
 
 Created at: 2026-01-21T21:30:00+08:00
 
@@ -422,6 +423,7 @@ Created at: 2026-01-21T21:30:00+08:00
 | authors | [YouTube精选速递\-bilibili\-哔哩哔哩](<bilibili/bilibili-user/bilibili-user-36141489.md>) |
 | aliases | 博学方法：如何掌握任何技能！\_哔哩哔哩\_bilibili |
 | mtime | 2026-01-21T21:30:00+08:00 |
+| note-cover-raw | [bilibili/bilibili\-video/bilibili\-video\-BV1DsgEz5E9s\.jpg](<bilibili/bilibili-video/bilibili-video-BV1DsgEz5E9s.jpg>)<br><img src="bilibili/bilibili-video/bilibili-video-BV1DsgEz5E9s.jpg" width=200 alt=""/> |
 
 #### [【彩色修复】1933年希特勒总理就职演讲完整版，令人不寒而栗\_哔哩哔哩\_bilibili](<https://www.bilibili.com/video/BV1V5p4zMEHW>) | [note](<bilibili/bilibili-video/bilibili-video-BV1V5p4zMEHW.md>)
 
@@ -679,11 +681,11 @@ Created at: 2025-02-07T22:20:18+08:00
 
 #### [道一又道\-bilibili\-哔哩哔哩](<https://space.bilibili.com/3546706654268153>) | [note](<bilibili/bilibili-user/bilibili-user-3546706654268153.md>)
 
-No description
+1V1论文辅导发表，毕业论文，中/英文会议普刊、中文核心、SCI、数模转学术论文等，S信咨询 关注gzh 【睿森科研】
 
 No tags
 
-No image
+<img src="bilibili/bilibili-user/bilibili-user-3546706654268153.jpg" width=200 alt=""/>
 
 Created at: 2026-02-03T04:10:07+08:00
 
@@ -692,17 +694,18 @@ Created at: 2026-02-03T04:10:07+08:00
 |  |  |
 | --- | --- |
 | up | [collection\-bilibili\-user](<docs/collection/collection-bilibili-user.md>) |
+| bulletin | 1V1论文辅导发表，毕业论文，中/英文会议普刊、中文核心、SCI、数模转学术论文等，S信咨询<br><br>关注gzh 【睿森科研】 |
 | works | [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) |
 | aliases | 道一又道\-bilibili\-哔哩哔哩 |
 | mtime | 2026-02-03T04:10:07+08:00 |
 
 #### [认知刺客\-bilibili\-哔哩哔哩](<https://space.bilibili.com/3546966132787579>) | [note](<bilibili/bilibili-user/bilibili-user-3546966132787579.md>)
 
-No description
+阳光下全是剧本，阴影里才有剧透。
 
 No tags
 
-No image
+<img src="bilibili/bilibili-user/bilibili-user-3546966132787579.jpg" width=200 alt=""/>
 
 Created at: 2026-01-26T14:08:00+08:00
 
@@ -714,14 +717,16 @@ Created at: 2026-01-26T14:08:00+08:00
 | works | [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) |
 | aliases | 认知刺客\-bilibili\-哔哩哔哩 |
 | mtime | 2026-01-26T14:08:00+08:00 |
+| note-birth-date | 
+01\-01 |
 
 #### [YouTube精选速递\-bilibili\-哔哩哔哩](<https://space.bilibili.com/36141489/>) | [note](<bilibili/bilibili-user/bilibili-user-36141489.md>)
 
-No description
+认知提升、自我成长、思维模型、财富逻辑，成为更好的自己。
 
 No tags
 
-No image
+<img src="bilibili/bilibili-user/bilibili-user-36141489.jpg" width=200 alt=""/>
 
 Created at: 2026-01-21T21:30:00+08:00
 
@@ -738,7 +743,7 @@ Created at: 2026-01-21T21:30:00+08:00
 
 资深程序员/架构师/产品经理，喜欢分享“非常主观”的软件技术理念、编程开发思维、职场经验等。商务合作请联系：yuanzinengswhz
 
-[\#TP](<clc/clc-tp.md>), #程序员, #架构师, #产品经理
+[\#TP](<clc/clc-tp.md>), #程序员, #架构师, #产品经理, #bilibili知名科技UP主
 
 <img src="bilibili/bilibili-user/bilibili-user-162183.webp" width=200 alt="bilibili-user-162183.webp"/>
 
@@ -752,6 +757,8 @@ Created at: 2025-11-11T15:10:53+08:00
 | bulletin | 资深程序员/架构师/产品经理，喜欢分享“非常主观”的软件技术理念、编程开发思维、职场经验等。商务合作联系：yuanzinengswhz粉丝群用Discord，地址是：https://discord\.gg/T2Dy5uGWKA |
 | aliases | 原子能\-bilibili\-哔哩哔哩 |
 | mtime | 2025-11-14T10:15:36+08:00 |
+| note-birth-date | 01\-01 |
+| note-college | 清华大学 |
 
 #### [杨雨坤\-Yukun\-bilibili\-哔哩哔哩](<https://space.bilibili.com/339833006>) | [note](<bilibili/bilibili-user/bilibili-user-339833006.md>)
 
@@ -770,6 +777,8 @@ Created at: 2025-11-08T21:43:06+08:00
 | up | [collection\-bilibili\-user](<docs/collection/collection-bilibili-user.md>) |
 | aliases | 杨雨坤\-Yukun\-bilibili\-哔哩哔哩 |
 | mtime | 2025-11-14T10:15:36+08:00 |
+| note-birth-date | 03\-06 |
+| note-college | 西安交通大学 |
 
 #### [茄子蒜泥儿\-bilibili\-哔哩哔哩](<https://space.bilibili.com/98695167>) | [note](<bilibili/bilibili-user/bilibili-user-98695167.md>)
 
@@ -790,6 +799,7 @@ Created at: 2025-11-02T22:05:52+08:00
 | works | [40年前那个令人窒息的红色帝国\_哔哩哔哩\_bilibili](<bilibili/bilibili-video/bilibili-video-BV1r5411W7JG.md>) |
 | aliases | 茄子蒜泥儿\-bilibili\-哔哩哔哩 |
 | mtime | 2025-11-11T15:19:42+08:00 |
+| note-birth-date | 01\-23 |
 
 #### [bili\_62511222486\-bilibili\-哔哩哔哩](<https://space.bilibili.com/689888414>) | [note](<bilibili/bilibili-user/bilibili-user-689888414.md>)
 
@@ -826,6 +836,7 @@ Created at: 2025-10-09T14:35:58+08:00
 | up | [collection\-bilibili\-user](<docs/collection/collection-bilibili-user.md>) |
 | aliases | 铁打的郎中\-bilibili\-哔哩哔哩 |
 | mtime | 2025-11-11T15:19:42+08:00 |
+| note-birth-date | 10\-18 |
 
 #### [Chubbyemu\-bilibili\-哔哩哔哩](<https://space.bilibili.com/297786973>) | [note](<bilibili/bilibili-user/bilibili-user-297786973.md>)
 
@@ -864,6 +875,7 @@ Created at: 2025-09-19T16:46:48+08:00
 | works | [【彩色修复】1933年希特勒总理就职演讲完整版，令人不寒而栗\_哔哩哔哩\_bilibili](<bilibili/bilibili-video/bilibili-video-BV1V5p4zMEHW.md>) |
 | aliases | 历史影像馆\-bilibili\-哔哩哔哩 |
 | mtime | 2025-11-11T15:19:42+08:00 |
+| note-birth-date | 07\-21 |
 
 #### [瑛之诗\-bilibili\-哔哩哔哩](<https://space.bilibili.com/143432483>) | [note](<bilibili/bilibili-user/bilibili-user-143432483.md>)
 
@@ -883,6 +895,7 @@ Created at: 2025-09-16T07:51:03+08:00
 | aliases | 瑛之诗\-bilibili\-哔哩哔哩 |
 | mtime | 2025-11-11T15:19:42+08:00 |
 | note-qq-group | [藤田琴音游戏交流群（bili瑛之诗）](<bilibili/bilibili-related-files/bilibili-related-file-藤田琴音游戏交流群（bili瑛之诗）.md>) |
+| note-birth-date | 06\-06 |
 
 #### [隅野贝\-bilibili\-哔哩哔哩](<https://space.bilibili.com/34106682>) | [note](<bilibili/bilibili-user/bilibili-user-34106682.md>)
 
@@ -901,10 +914,11 @@ Created at: 2025-08-16T22:06:35+08:00
 | up | [collection\-bilibili\-user](<docs/collection/collection-bilibili-user.md>) |
 | aliases | 隅野贝\-bilibili\-哔哩哔哩 |
 | mtime | 2025-11-11T15:19:42+08:00 |
+| note-birth-date | 02\-01 |
 
 #### [PiKaChu345\-bilibili\-哔哩哔哩](<https://space.bilibili.com/180947374>) | [note](<bilibili/bilibili-user/bilibili-user-180947374.md>)
 
-是时候给频道上点强度了
+不会类比学不懂数学
 
 [\#O1](<clc/clc-o1.md>), #数学笔记, #Obsidian, #学习方法
 
@@ -943,11 +957,11 @@ Created at: 2025-08-16T21:52:30+08:00
 
 #### [风辰琳雪儿\-bilibili\-哔哩哔哩](<https://space.bilibili.com/104880307>) | [note](<bilibili/bilibili-user/bilibili-user-104880307.md>)
 
-No description
+琳哥，琳姐，琳，这三个称呼都可以，不用太见外。
 
 No tags
 
-No image
+<img src="bilibili/bilibili-user/bilibili-user-104880307.jpg" width=200 alt=""/>
 
 Created at: 2025-02-26T23:39:10+08:00
 
@@ -956,17 +970,20 @@ Created at: 2025-02-26T23:39:10+08:00
 |  |  |
 | --- | --- |
 | up | [collection\-bilibili\-user](<docs/collection/collection-bilibili-user.md>) |
+| bulletin | 有点累了 |
 | works | [乡间的暑假生活，这光把男主介绍给全村人就十几分钟，我的天。。。。。。\_单机游戏热门视频\_哔哩哔哩\_bilibili](<bilibili/bilibili-video/bilibili-video-BV1Fv411N7Rq.md>) |
 | aliases | 风辰琳雪儿\-bilibili\-哔哩哔哩 |
 | mtime | 2025-10-01T11:41:38+08:00 |
+| note-birth-date | 
+07\-15 |
 
 #### [伊吹继续生\-bilibili\-哔哩哔哩](<https://space.bilibili.com/3493079608723871>) | [note](<bilibili/bilibili-user/bilibili-user-3493079608723871.md>)
 
-No description
+多点关心多点爱，吃个伊吹补补钙，芒果味的小伊吹最美味啦！喜欢蔚蓝档案，战争雷霆，超级喜欢鹿乃的小鹿包一只
 
 No tags
 
-No image
+<img src="bilibili/bilibili-user/bilibili-user-3493079608723871.jpg" width=200 alt=""/>
 
 Created at: 2025-02-25T23:25:13+08:00
 
@@ -978,14 +995,15 @@ Created at: 2025-02-25T23:25:13+08:00
 | works | [伊吹：当天的错误就要当天教育哦\_哔哩哔哩\_bilibili](<bilibili/bilibili-video/bilibili-video-BV1JSr7YZE1V.md>) |
 | aliases | 伊吹继续生\-bilibili\-哔哩哔哩 |
 | mtime | 2025-10-01T11:41:38+08:00 |
+| note-birth-date | 01\-01 |
 
 #### [阿尔弗雷特\-科尔托\-bilibili\-哔哩哔哩](<https://space.bilibili.com/47218557>) | [note](<bilibili/bilibili-user/bilibili-user-47218557.md>)
 
-No description
+事星海附中2025届肛嫑の人柴 现为星海本科罓灬のsb
 
-No tags
+#音乐, #本子分享
 
-No image
+<img src="bilibili/bilibili-user/bilibili-user-47218557.jpg" width=200 alt=""/>
 
 Created at: 2025-02-25T12:04:34+08:00
 
@@ -997,3 +1015,5 @@ Created at: 2025-02-25T12:04:34+08:00
 | works | [真可爱捏~\_哔哩哔哩\_bilibili](<bilibili/bilibili-video/bilibili-video-BV1u3411a7qy.md>) |
 | aliases | 阿尔弗雷特\-科尔托\-bilibili\-哔哩哔哩 |
 | mtime | 2025-10-01T11:41:38+08:00 |
+| note-birth-date | 09\-26 |
+| note-college | 星海音乐学院 |

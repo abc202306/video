@@ -6,6 +6,8 @@
     "ctime": "datetime",
     "mtime": "datetime",
     "works": "multitext",
-    "authors": "multitext"
+    "authors": "multitext",
+    "published": "datetime",
+    "uploaded": "datetime"
   }
 }

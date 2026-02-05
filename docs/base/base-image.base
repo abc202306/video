@@ -6,5 +6,11 @@ formulas:
 views:
   - type: cards
     name: Table
-    order: []
+    order:
+      - ctime
+    sort:
+      - property: ctime
+        direction: DESC
     image: formula.fimage
+    imageAspectRatio: 0.6
+    imageFit: contain

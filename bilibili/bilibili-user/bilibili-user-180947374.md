@@ -3,7 +3,7 @@ up:
   - "[[collection-bilibili-user|collection-bilibili-user]]"
 title: PiKaChu345-bilibili-哔哩哔哩
 url: https://space.bilibili.com/180947374
-description: 是时候给频道上点强度了
+description: 不会类比学不懂数学
 tags:
   - 数学笔记
   - Obsidian
@@ -22,7 +22,7 @@ mtime: 2025-11-11T15:19:42+08:00
 
 # PiKaChu345
 
-是时候给频道上点强度了
+不会类比学不懂数学
 
 - url: [PiKaChu345的个人空间-PiKaChu345个人主页-哔哩哔哩视频](https://space.bilibili.com/180947374)
 - bulletin: 

@@ -11,13 +11,11 @@ categories:
   - "[[clc-k|K]]"
 comment: 1. 第1集：信息<br>2. 第2集：能源<br>3. 第3集：生命<br>4. 第4集：制造<br>5. 第5集：空海
 cover: "[[bilibili-bangumi-media-md58712.png|bilibili-bangumi-media-md58712.png]]"
-images:
 aliases:
   - 创新中国-纪录片-bilibili-哔哩哔哩
 ctime: 2025-09-14T16:34:49+08:00
 mtime: 2025-10-01T11:41:39+08:00
-published:
-uploaded:
+
 note-演员: 马云
 note-导演: 史岩、史慧、胡博、裔欣、孙超、吴小满、章莹、王心、孙泗淇、刘昀、何青
 note-编剧: 许丁心

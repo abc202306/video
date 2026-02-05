@@ -17,6 +17,7 @@ aliases:
   - 隅野贝-bilibili-哔哩哔哩
 ctime: 2025-08-16T22:06:35+08:00
 mtime: 2025-11-11T15:19:42+08:00
+note-birth-date: 02-01
 ---
 
 # 隅野贝

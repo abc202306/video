@@ -19,6 +19,17 @@ views:
       - formula.allkw
       - comment
       - authors
+      - url
+      - ctime
+      - mtime
+      - published
+      - uploaded
+      - cover
+      - images
+      - aliases
+    sort:
+      - property: ctime
+        direction: DESC
     columnSize:
       file.name: 106
       note.description: 268
@@ -26,23 +37,3 @@ views:
     imageFit: contain
     cardSize: 200
     imageAspectRatio: 0.6
-  - type: list
-    name: List
-    order:
-      - formula.titlelink
-      - description
-      - formula.allkw
-      - authors
-    columnSize:
-      file.name: 106
-      note.description: 268
-    image: formula.image2
-    imageFit: contain
-    cardSize: 200
-    imageAspectRatio: 0.6
-    indentProperties: true
-  - type: table
-    name: Table
-    order:
-      - file.name
-      - authors
