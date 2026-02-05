@@ -18,11 +18,12 @@ ctime: 2025-09-20T14:17:16+08:00
 mtime: 2025-11-14T10:15:36+08:00
 published:
 uploaded:
+note-music: "[[bilibili-related-file-【Myself】 历史影像馆歌单 - MusicList|【Myself】 历史影像馆歌单 - MusicList]]"
 ---
 
 # 【彩色修复】1933年希特勒总理就职演讲完整版，令人不寒而栗_哔哩哔哩_bilibili
 
-- music: 【Myself】 历史影像馆歌单 - MusicList
+- music: [[bilibili-related-file-【Myself】 历史影像馆歌单 - MusicList|【Myself】 历史影像馆歌单 - MusicList]]
 
 ## Notes
 

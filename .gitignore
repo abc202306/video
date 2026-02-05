@@ -155,4 +155,5 @@
 !*.gitattributes
 
 .obsidian/workspace.json
+.obsidian/plugins/sample-plugin/
 templater-script/*.js

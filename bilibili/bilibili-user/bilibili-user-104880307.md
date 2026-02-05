@@ -14,7 +14,7 @@ aliases:
   - 风辰琳雪儿-bilibili-哔哩哔哩
 ctime: 2025-02-26T23:39:10+08:00
 mtime: 2025-10-01T11:41:38+08:00
-note-birth-date: "\r07-15"
+note-birth-date: "07-15"
 ---
 
 # 风辰琳雪儿

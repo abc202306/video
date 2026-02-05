@@ -18,6 +18,7 @@ ctime: 2025-09-18T16:03:18+08:00
 mtime: 2025-11-14T10:15:36+08:00
 published:
 uploaded:
+note-music: "[[bilibili-related-file-BGM：Dmitriy Emelianov-Fusillade(Part I)|BGM：Dmitriy Emelianov-Fusillade(Part I)]]"
 ---
 
 # 40年前那个令人窒息的红色帝国_哔哩哔哩_bilibili
