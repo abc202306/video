@@ -8,11 +8,14 @@ formulas:
   titlelink: link(file, title)
 views:
   - type: cards
-    name: Cards
+    name: Cards/categories
+    groupBy:
+      property: categories
+      direction: ASC
     order:
       - title
       - description
-      - tags
+      - formula.allkw
       - works
       - url
       - icon
@@ -20,6 +23,7 @@ views:
       - ctime
       - mtime
       - comment
+      - note-icon-raw
     sort:
       - property: ctime
         direction: DESC

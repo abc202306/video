@@ -5,6 +5,7 @@ title:
 url:
 description:
 tags:
+categories:
 comment:
 icon:
 works:

@@ -8,6 +8,7 @@ tags:
   - 音乐
   - 本子分享
 categories:
+  - "[[clc-j2|J2]]"
 bulletin:
 icon: "[[bilibili-user-47218557.jpg]]"
 works:

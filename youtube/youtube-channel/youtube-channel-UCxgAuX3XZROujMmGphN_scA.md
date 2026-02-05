@@ -7,13 +7,15 @@ description: I firmly believe that anyone who learns the skill sets of a million
 tags:
   - 经验分享
 comment:
+categories:
+  - "[[clc-g|G]]"
 icon: "[[youtube-channel-UCxgAuX3XZROujMmGphN_scA.jpg]]"
 works:
   - "[[youtube-video-FylHa4_neOA|I'm 57. If you're in your 20's please watch this. - YouTube]]"
 aliases:
   - Mark Tilbury - YouTube
-ctime: 2026-02-04T00:54:50+08:00
-mtime: 2026-02-04T00:54:50+08:00
+ctime: 2024-11-22T21:32:53+08:00
+mtime: 2025-11-09T22:24:12+08:00
 ---
 
 # Mark Tilbury

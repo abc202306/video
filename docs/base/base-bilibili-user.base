@@ -8,7 +8,10 @@ formulas:
   titlelink: link(file,title)
 views:
   - type: cards
-    name: Cards
+    name: Cards/categories
+    groupBy:
+      property: categories
+      direction: ASC
     order:
       - title
       - description

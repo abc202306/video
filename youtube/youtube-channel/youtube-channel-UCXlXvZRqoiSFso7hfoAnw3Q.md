@@ -8,6 +8,8 @@ tags:
   - 游戏分享
   - 萝莉
   - 黄油
+categories:
+  - "[[clc-j2|J2]]"
 comment:
 icon: "[[youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q.jpg]]"
 works:

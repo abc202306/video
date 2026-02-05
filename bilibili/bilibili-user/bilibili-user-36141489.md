@@ -6,6 +6,7 @@ url: https://space.bilibili.com/36141489/
 description: 认知提升、自我成长、思维模型、财富逻辑，成为更好的自己。
 tags:
 categories:
+  - "[[clc-g|G]]"
 bulletin:
 icon: "[[bilibili-user-36141489.jpg]]"
 works:

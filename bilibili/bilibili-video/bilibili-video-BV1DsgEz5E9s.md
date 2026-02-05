@@ -18,7 +18,6 @@ ctime: 2026-01-21T21:30:00+08:00
 mtime: 2026-01-21T21:30:00+08:00
 published:
 uploaded:
-note-cover-raw: "[[bilibili-video-BV1DsgEz5E9s.jpg]]"
 ---
 
 # bilibili-video-BV1DsgEz5E9s

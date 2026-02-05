@@ -10,6 +10,8 @@ tags:
   - 黄油
   - 游戏分享
   - 幸福家里蹲的養成方法
+categories:
+  - "[[clc-j2|J2]]"
 comment: "遊戲名稱 : 幸福家里蹲的養成方法"
 cover: "[[youtube-video-89ZUjfKw-88.jpg]]"
 authors:

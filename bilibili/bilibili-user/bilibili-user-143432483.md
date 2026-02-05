@@ -9,7 +9,7 @@ tags:
   - 分享
   - QQ群
 categories:
-  - "[[clc-g989|G989]]"
+  - "[[clc-j2|J2]]"
 bulletin:
 icon: "[[bilibili-user-143432483.png|bilibili-user-143432483.png]]"
 works:

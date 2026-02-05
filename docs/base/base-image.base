@@ -5,7 +5,10 @@ formulas:
   fimage: image(if(cover,cover,icon))
 views:
   - type: cards
-    name: Table
+    name: Cards/categories
+    groupBy:
+      property: categories
+      direction: ASC
     order:
       - ctime
     sort:

@@ -10,6 +10,8 @@ tags:
   - 黄油
   - 游戏分享
   - りりぃあんじぇ
+categories:
+  - "[[clc-j2|J2]]"
 comment: "遊戲名稱 : りりぃあんじぇ"
 cover: "[[youtube-video-qM-8TtSMS04.jpg]]"
 authors:

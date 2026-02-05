@@ -8,6 +8,8 @@ tags:
   - 政治
   - 时事
   - 反共
+categories:
+  - "[[clc-d|D]]"
 comment:
 icon: "[[youtube-channel-UCzYYzigb1vXR0GQXXBja2kg.jpg]]"
 works:

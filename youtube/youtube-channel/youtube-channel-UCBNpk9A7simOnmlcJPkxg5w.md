@@ -8,6 +8,8 @@ tags:
   - 读书分享
   - 政治
   - 文学
+categories:
+  - "[[clc-d|D]]"
 comment:
 icon: "[[youtube-channel-UCBNpk9A7simOnmlcJPkxg5w.jpg]]"
 works:

@@ -12,7 +12,10 @@ formulas:
   otherproperies: 'html(file.properties.keys().filter(!["up", "title", "url", "description", "cover", "icon", "comment", "keywords", "categories", "tags","aliases","ctime","mtime"].contains(value)).filter(file.properties[value]).map(value+": "+file.properties[value]).join("<br>"))'
 views:
   - type: cards
-    name: Cards
+    name: Cards/categories
+    groupBy:
+      property: categories
+      direction: ASC
     order:
       - formula.titlelink
       - description
