@@ -2,86 +2,87 @@
 
 > - [youtube\-video](<#youtube-video>)
 > 	- [D](<#group-youtube-video-by-category-D>)
-> 		- [【枫说】洗脑程度测试：盘点中共打进人们脑海中的十个思想钢印。连马斯克都中招了 \- YouTube](<#youtube-video-m0WEYBL538I>) | [file](<youtube/youtube-video/youtube-video-m0WEYBL538I.md>) | [url](<https://www.youtube.com/watch?v=m0WEYBL538I>)
+> 		- [【枫说】洗脑程度测试：盘点中共打进人们脑海中的十个思想钢印。连马斯克都中招了 \- YouTube](<#youtube-video-m0WEYBL538I>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-m0WEYBL538I.md>) | [url](<https://www.youtube.com/watch?v=m0WEYBL538I>)
 > 	- [G](<#group-youtube-video-by-category-G>)
-> 		- [马斯克等大佬是怎么记住这么多知识的？【考试脑科学】 \- YouTube](<#youtube-video-VSe7Uhi4jTQ>) | [file](<youtube/youtube-video/youtube-video-VSe7Uhi4jTQ.md>) | [url](<https://www.youtube.com/watch?v=VSe7Uhi4jTQ>)
-> 		- [I'm 57\. If you're in your 20's please watch this\. \- YouTube](<#youtube-video-FylHa4_neOA>) | [file](<youtube/youtube-video/youtube-video-FylHa4_neOA.md>) | [url](<https://www.youtube.com/watch?v=FylHa4_neOA>)
+> 		- [马斯克等大佬是怎么记住这么多知识的？【考试脑科学】 \- YouTube](<#youtube-video-VSe7Uhi4jTQ>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-VSe7Uhi4jTQ.md>) | [url](<https://www.youtube.com/watch?v=VSe7Uhi4jTQ>)
+> 		- [I'm 57\. If you're in your 20's please watch this\. \- YouTube](<#youtube-video-FylHa4_neOA>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-FylHa4_neOA.md>) | [url](<https://www.youtube.com/watch?v=FylHa4_neOA>)
 > 	- [J2](<#group-youtube-video-by-category-J2>)
-> 		- [銷售超過8萬份的酪梨純愛遊戲 ?\! 這款作品為什麼這麼強 ? 【酪梨好好吃】 \- YouTube](<#youtube-video-89ZUjfKw-88>) | [file](<youtube/youtube-video/youtube-video-89ZUjfKw-88.md>) | [url](<https://www.youtube.com/watch?v=89ZUjfKw-88>)
-> 		- [這款網遊九成以上角色都是酪梨 \! 這款遊戲真的沒問題嗎? \- YouTube](<#youtube-video-qM-8TtSMS04>) | [file](<youtube/youtube-video/youtube-video-qM-8TtSMS04.md>) | [url](<https://www.youtube.com/watch?v=qM-8TtSMS04>)
+> 		- [銷售超過8萬份的酪梨純愛遊戲 ?\! 這款作品為什麼這麼強 ? 【酪梨好好吃】 \- YouTube](<#youtube-video-89ZUjfKw-88>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-89ZUjfKw-88.md>) | [url](<https://www.youtube.com/watch?v=89ZUjfKw-88>)
+> 		- [這款網遊九成以上角色都是酪梨 \! 這款遊戲真的沒問題嗎? \- YouTube](<#youtube-video-qM-8TtSMS04>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-qM-8TtSMS04.md>) | [url](<https://www.youtube.com/watch?v=qM-8TtSMS04>)
 > - [youtube\-channel](<#youtube-channel>)
 > 	- [D](<#group-youtube-channel-by-category-D>)
-> 		- [多伦多方脸 \- YouTube](<#youtube-channel-UCzYYzigb1vXR0GQXXBja2kg>) | [file](<youtube/youtube-channel/youtube-channel-UCzYYzigb1vXR0GQXXBja2kg.md>) | [url](<https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg>)
-> 		- [安争鸣（Stella An） \- YouTube](<#youtube-channel-UCBNpk9A7simOnmlcJPkxg5w>) | [file](<youtube/youtube-channel/youtube-channel-UCBNpk9A7simOnmlcJPkxg5w.md>) | [url](<https://www.youtube.com/channel/UCBNpk9A7simOnmlcJPkxg5w>)
+> 		- [多伦多方脸 \- YouTube](<#youtube-channel-UCzYYzigb1vXR0GQXXBja2kg>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCzYYzigb1vXR0GQXXBja2kg.md>) | [url](<https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg>)
+> 		- [安争鸣（Stella An） \- YouTube](<#youtube-channel-UCBNpk9A7simOnmlcJPkxg5w>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCBNpk9A7simOnmlcJPkxg5w.md>) | [url](<https://www.youtube.com/channel/UCBNpk9A7simOnmlcJPkxg5w>)
 > 	- [G](<#group-youtube-channel-by-category-G>)
-> 		- [Mark Tilbury \- YouTube](<#youtube-channel-UCxgAuX3XZROujMmGphN_scA>) | [file](<youtube/youtube-channel/youtube-channel-UCxgAuX3XZROujMmGphN_scA.md>) | [url](<https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA>)
+> 		- [Mark Tilbury \- YouTube](<#youtube-channel-UCxgAuX3XZROujMmGphN_scA>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCxgAuX3XZROujMmGphN_scA.md>) | [url](<https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA>)
 > 	- [J2](<#group-youtube-channel-by-category-J2>)
-> 		- [神聖蘿碼帝國\-小宇🔞 \- YouTube](<#youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q>) | [file](<youtube/youtube-channel/youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q.md>) | [url](<https://www.youtube.com/channel/UCXlXvZRqoiSFso7hfoAnw3Q>)
+> 		- [神聖蘿碼帝國\-小宇🔞 \- YouTube](<#youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q.md>) | [url](<https://www.youtube.com/channel/UCXlXvZRqoiSFso7hfoAnw3Q>)
 > - [bilibili\-video](<#bilibili-video>)
 > 	- [G](<#group-bilibili-video-by-category-G>)
-> 		- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
-> 		- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
-> 		- [博学方法：如何掌握任何技能！\_哔哩哔哩\_bilibili](<#bilibili-video-BV1DsgEz5E9s>) | [file](<bilibili/bilibili-video/bilibili-video-BV1DsgEz5E9s.md>) | [url](<https://www.bilibili.com/video/BV1DsgEz5E9s>)
+> 		- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+> 		- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+> 		- [博学方法：如何掌握任何技能！\_哔哩哔哩\_bilibili](<#bilibili-video-BV1DsgEz5E9s>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1DsgEz5E9s.md>) | [url](<https://www.bilibili.com/video/BV1DsgEz5E9s>)
 > 	- [J2](<#group-bilibili-video-by-category-J2>)
-> 		- [乡间的暑假生活，这光把男主介绍给全村人就十几分钟，我的天。。。。。。\_单机游戏热门视频\_哔哩哔哩\_bilibili](<#bilibili-video-BV1Fv411N7Rq>) | [file](<bilibili/bilibili-video/bilibili-video-BV1Fv411N7Rq.md>) | [url](<https://www.bilibili.com/video/BV1Fv411N7Rq>)
-> 		- [伊吹：当天的错误就要当天教育哦\_哔哩哔哩\_bilibili](<#bilibili-video-BV1JSr7YZE1V>) | [file](<bilibili/bilibili-video/bilibili-video-BV1JSr7YZE1V.md>) | [url](<https://www.bilibili.com/video/BV1JSr7YZE1V>)
-> 		- [真可爱捏~\_哔哩哔哩\_bilibili](<#bilibili-video-BV1u3411a7qy>) | [file](<bilibili/bilibili-video/bilibili-video-BV1u3411a7qy.md>) | [url](<https://www.bilibili.com/video/BV1u3411a7qy>)
+> 		- [乡间的暑假生活，这光把男主介绍给全村人就十几分钟，我的天。。。。。。\_单机游戏热门视频\_哔哩哔哩\_bilibili](<#bilibili-video-BV1Fv411N7Rq>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1Fv411N7Rq.md>) | [url](<https://www.bilibili.com/video/BV1Fv411N7Rq>)
+> 		- [伊吹：当天的错误就要当天教育哦\_哔哩哔哩\_bilibili](<#bilibili-video-BV1JSr7YZE1V>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1JSr7YZE1V.md>) | [url](<https://www.bilibili.com/video/BV1JSr7YZE1V>)
+> 		- [真可爱捏~\_哔哩哔哩\_bilibili](<#bilibili-video-BV1u3411a7qy>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1u3411a7qy.md>) | [url](<https://www.bilibili.com/video/BV1u3411a7qy>)
 > 	- [K](<#group-bilibili-video-by-category-K>)
-> 		- [【彩色修复】1933年希特勒总理就职演讲完整版，令人不寒而栗\_哔哩哔哩\_bilibili](<#bilibili-video-BV1V5p4zMEHW>) | [file](<bilibili/bilibili-video/bilibili-video-BV1V5p4zMEHW.md>) | [url](<https://www.bilibili.com/video/BV1V5p4zMEHW>)
-> 		- [40年前那个令人窒息的红色帝国\_哔哩哔哩\_bilibili](<#bilibili-video-BV1r5411W7JG>) | [file](<bilibili/bilibili-video/bilibili-video-BV1r5411W7JG.md>) | [url](<https://www.bilibili.com/video/BV1r5411W7JG>)
+> 		- [【彩色修复】1933年希特勒总理就职演讲完整版，令人不寒而栗\_哔哩哔哩\_bilibili](<#bilibili-video-BV1V5p4zMEHW>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1V5p4zMEHW.md>) | [url](<https://www.bilibili.com/video/BV1V5p4zMEHW>)
+> 		- [40年前那个令人窒息的红色帝国\_哔哩哔哩\_bilibili](<#bilibili-video-BV1r5411W7JG>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1r5411W7JG.md>) | [url](<https://www.bilibili.com/video/BV1r5411W7JG>)
 > 	- [O1](<#group-bilibili-video-by-category-O1>)
-> 		- [【数学杂谈】硬核模式学数学？你欧拉转世吗？\_哔哩哔哩\_bilibili](<#bilibili-video-BV1X1BCY1EHp>) | [file](<bilibili/bilibili-video/bilibili-video-BV1X1BCY1EHp.md>) | [url](<https://www.bilibili.com/video/BV1X1BCY1EHp>)
+> 		- [【数学杂谈】硬核模式学数学？你欧拉转世吗？\_哔哩哔哩\_bilibili](<#bilibili-video-BV1X1BCY1EHp>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1X1BCY1EHp.md>) | [url](<https://www.bilibili.com/video/BV1X1BCY1EHp>)
 > - [bilibili\-bangumi](<#bilibili-bangumi>)
 > 	- [K](<#group-bilibili-bangumi-by-category-K>)
-> 		- [创新中国\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md58712>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md58712.md>) | [url](<https://www.bilibili.com/bangumi/media/md58712>)
-> 		- [大国崛起\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28233889>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28233889.md>) | [url](<https://www.bilibili.com/bangumi/media/md28233889>)
+> 		- [创新中国\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md58712>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md58712.md>) | [url](<https://www.bilibili.com/bangumi/media/md58712>)
+> 		- [大国崛起\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28233889>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28233889.md>) | [url](<https://www.bilibili.com/bangumi/media/md28233889>)
 > 	- [R1](<#group-bilibili-bangumi-by-category-R1>)
-> 		- [短路的大脑 第一季\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28220437>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28220437.md>) | [url](<https://www.bilibili.com/bangumi/media/md28220437>)
+> 		- [短路的大脑 第一季\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28220437>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28220437.md>) | [url](<https://www.bilibili.com/bangumi/media/md28220437>)
 > - [bilibili\-user](<#bilibili-user>)
 > 	- [G](<#group-bilibili-user-by-category-G>)
-> 		- [道一又道\-bilibili\-哔哩哔哩](<#bilibili-user-3546706654268153>) | [file](<bilibili/bilibili-user/bilibili-user-3546706654268153.md>) | [url](<https://space.bilibili.com/3546706654268153>)
-> 		- [认知刺客\-bilibili\-哔哩哔哩](<#bilibili-user-3546966132787579>) | [file](<bilibili/bilibili-user/bilibili-user-3546966132787579.md>) | [url](<https://space.bilibili.com/3546966132787579>)
-> 		- [YouTube精选速递\-bilibili\-哔哩哔哩](<#bilibili-user-36141489>) | [file](<bilibili/bilibili-user/bilibili-user-36141489.md>) | [url](<https://space.bilibili.com/36141489/>)
+> 		- [道一又道\-bilibili\-哔哩哔哩](<#bilibili-user-3546706654268153>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-3546706654268153.md>) | [url](<https://space.bilibili.com/3546706654268153>)
+> 		- [认知刺客\-bilibili\-哔哩哔哩](<#bilibili-user-3546966132787579>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-3546966132787579.md>) | [url](<https://space.bilibili.com/3546966132787579>)
+> 		- [YouTube精选速递\-bilibili\-哔哩哔哩](<#bilibili-user-36141489>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-36141489.md>) | [url](<https://space.bilibili.com/36141489/>)
 > 	- [J2](<#group-bilibili-user-by-category-J2>)
-> 		- [瑛之诗\-bilibili\-哔哩哔哩](<#bilibili-user-143432483>) | [file](<bilibili/bilibili-user/bilibili-user-143432483.md>) | [url](<https://space.bilibili.com/143432483>)
-> 		- [隅野贝\-bilibili\-哔哩哔哩](<#bilibili-user-34106682>) | [file](<bilibili/bilibili-user/bilibili-user-34106682.md>) | [url](<https://space.bilibili.com/34106682>)
-> 		- [风辰琳雪儿\-bilibili\-哔哩哔哩](<#bilibili-user-104880307>) | [file](<bilibili/bilibili-user/bilibili-user-104880307.md>) | [url](<https://space.bilibili.com/104880307>)
-> 		- [伊吹继续生\-bilibili\-哔哩哔哩](<#bilibili-user-3493079608723871>) | [file](<bilibili/bilibili-user/bilibili-user-3493079608723871.md>) | [url](<https://space.bilibili.com/3493079608723871>)
-> 		- [阿尔弗雷特\-科尔托\-bilibili\-哔哩哔哩](<#bilibili-user-47218557>) | [file](<bilibili/bilibili-user/bilibili-user-47218557.md>) | [url](<https://space.bilibili.com/47218557>)
+> 		- [瑛之诗\-bilibili\-哔哩哔哩](<#bilibili-user-143432483>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-143432483.md>) | [url](<https://space.bilibili.com/143432483>)
+> 		- [隅野贝\-bilibili\-哔哩哔哩](<#bilibili-user-34106682>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-34106682.md>) | [url](<https://space.bilibili.com/34106682>)
+> 		- [风辰琳雪儿\-bilibili\-哔哩哔哩](<#bilibili-user-104880307>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-104880307.md>) | [url](<https://space.bilibili.com/104880307>)
+> 		- [伊吹继续生\-bilibili\-哔哩哔哩](<#bilibili-user-3493079608723871>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-3493079608723871.md>) | [url](<https://space.bilibili.com/3493079608723871>)
+> 		- [阿尔弗雷特\-科尔托\-bilibili\-哔哩哔哩](<#bilibili-user-47218557>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-47218557.md>) | [url](<https://space.bilibili.com/47218557>)
 > 	- [K](<#group-bilibili-user-by-category-K>)
-> 		- [茄子蒜泥儿\-bilibili\-哔哩哔哩](<#bilibili-user-98695167>) | [file](<bilibili/bilibili-user/bilibili-user-98695167.md>) | [url](<https://space.bilibili.com/98695167>)
-> 		- [历史影像馆\-bilibili\-哔哩哔哩](<#bilibili-user-269115278>) | [file](<bilibili/bilibili-user/bilibili-user-269115278.md>) | [url](<https://space.bilibili.com/269115278>)
+> 		- [茄子蒜泥儿\-bilibili\-哔哩哔哩](<#bilibili-user-98695167>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-98695167.md>) | [url](<https://space.bilibili.com/98695167>)
+> 		- [历史影像馆\-bilibili\-哔哩哔哩](<#bilibili-user-269115278>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-269115278.md>) | [url](<https://space.bilibili.com/269115278>)
 > 	- [O1](<#group-bilibili-user-by-category-O1>)
-> 		- [PiKaChu345\-bilibili\-哔哩哔哩](<#bilibili-user-180947374>) | [file](<bilibili/bilibili-user/bilibili-user-180947374.md>) | [url](<https://space.bilibili.com/180947374>)
-> 		- [3Blue1Brown\-bilibili\-哔哩哔哩](<#bilibili-user-88461692>) | [file](<bilibili/bilibili-user/bilibili-user-88461692.md>) | [url](<https://space.bilibili.com/88461692>)
+> 		- [PiKaChu345\-bilibili\-哔哩哔哩](<#bilibili-user-180947374>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-180947374.md>) | [url](<https://space.bilibili.com/180947374>)
+> 		- [3Blue1Brown\-bilibili\-哔哩哔哩](<#bilibili-user-88461692>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-88461692.md>) | [url](<https://space.bilibili.com/88461692>)
 > 	- [Q189](<#group-bilibili-user-by-category-Q189>)
-> 		- [杨雨坤\-Yukun\-bilibili\-哔哩哔哩](<#bilibili-user-339833006>) | [file](<bilibili/bilibili-user/bilibili-user-339833006.md>) | [url](<https://space.bilibili.com/339833006>)
+> 		- [杨雨坤\-Yukun\-bilibili\-哔哩哔哩](<#bilibili-user-339833006>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-339833006.md>) | [url](<https://space.bilibili.com/339833006>)
 > 	- [R1](<#group-bilibili-user-by-category-R1>)
-> 		- [铁打的郎中\-bilibili\-哔哩哔哩](<#bilibili-user-413597883>) | [file](<bilibili/bilibili-user/bilibili-user-413597883.md>) | [url](<https://space.bilibili.com/413597883>)
-> 		- [Chubbyemu\-bilibili\-哔哩哔哩](<#bilibili-user-297786973>) | [file](<bilibili/bilibili-user/bilibili-user-297786973.md>) | [url](<https://space.bilibili.com/297786973>)
+> 		- [铁打的郎中\-bilibili\-哔哩哔哩](<#bilibili-user-413597883>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-413597883.md>) | [url](<https://space.bilibili.com/413597883>)
+> 		- [Chubbyemu\-bilibili\-哔哩哔哩](<#bilibili-user-297786973>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-297786973.md>) | [url](<https://space.bilibili.com/297786973>)
 > 	- [TP](<#group-bilibili-user-by-category-TP>)
-> 		- [原子能\-bilibili\-哔哩哔哩](<#bilibili-user-162183>) | [file](<bilibili/bilibili-user/bilibili-user-162183.md>) | [url](<https://space.bilibili.com/162183>)
+> 		- [原子能\-bilibili\-哔哩哔哩](<#bilibili-user-162183>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-162183.md>) | [url](<https://space.bilibili.com/162183>)
 > 	- [Z](<#group-bilibili-user-by-category-Z>)
-> 		- [bili\_62511222486\-bilibili\-哔哩哔哩](<#bilibili-user-689888414>) | [file](<bilibili/bilibili-user/bilibili-user-689888414.md>) | [url](<https://space.bilibili.com/689888414>)
+> 		- [bili\_62511222486\-bilibili\-哔哩哔哩](<#bilibili-user-689888414>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-689888414.md>) | [url](<https://space.bilibili.com/689888414>)
+> - [tags](<#tags>)
 
 ## youtube-video
 
 - [D](<#group-youtube-video-by-category-D>)
-	- [【枫说】洗脑程度测试：盘点中共打进人们脑海中的十个思想钢印。连马斯克都中招了 \- YouTube](<#youtube-video-m0WEYBL538I>) | [file](<youtube/youtube-video/youtube-video-m0WEYBL538I.md>) | [url](<https://www.youtube.com/watch?v=m0WEYBL538I>)
+	- [【枫说】洗脑程度测试：盘点中共打进人们脑海中的十个思想钢印。连马斯克都中招了 \- YouTube](<#youtube-video-m0WEYBL538I>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-m0WEYBL538I.md>) | [url](<https://www.youtube.com/watch?v=m0WEYBL538I>)
 - [G](<#group-youtube-video-by-category-G>)
-	- [马斯克等大佬是怎么记住这么多知识的？【考试脑科学】 \- YouTube](<#youtube-video-VSe7Uhi4jTQ>) | [file](<youtube/youtube-video/youtube-video-VSe7Uhi4jTQ.md>) | [url](<https://www.youtube.com/watch?v=VSe7Uhi4jTQ>)
-	- [I'm 57\. If you're in your 20's please watch this\. \- YouTube](<#youtube-video-FylHa4_neOA>) | [file](<youtube/youtube-video/youtube-video-FylHa4_neOA.md>) | [url](<https://www.youtube.com/watch?v=FylHa4_neOA>)
+	- [马斯克等大佬是怎么记住这么多知识的？【考试脑科学】 \- YouTube](<#youtube-video-VSe7Uhi4jTQ>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-VSe7Uhi4jTQ.md>) | [url](<https://www.youtube.com/watch?v=VSe7Uhi4jTQ>)
+	- [I'm 57\. If you're in your 20's please watch this\. \- YouTube](<#youtube-video-FylHa4_neOA>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-FylHa4_neOA.md>) | [url](<https://www.youtube.com/watch?v=FylHa4_neOA>)
 - [J2](<#group-youtube-video-by-category-J2>)
-	- [銷售超過8萬份的酪梨純愛遊戲 ?\! 這款作品為什麼這麼強 ? 【酪梨好好吃】 \- YouTube](<#youtube-video-89ZUjfKw-88>) | [file](<youtube/youtube-video/youtube-video-89ZUjfKw-88.md>) | [url](<https://www.youtube.com/watch?v=89ZUjfKw-88>)
-	- [這款網遊九成以上角色都是酪梨 \! 這款遊戲真的沒問題嗎? \- YouTube](<#youtube-video-qM-8TtSMS04>) | [file](<youtube/youtube-video/youtube-video-qM-8TtSMS04.md>) | [url](<https://www.youtube.com/watch?v=qM-8TtSMS04>)
+	- [銷售超過8萬份的酪梨純愛遊戲 ?\! 這款作品為什麼這麼強 ? 【酪梨好好吃】 \- YouTube](<#youtube-video-89ZUjfKw-88>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-89ZUjfKw-88.md>) | [url](<https://www.youtube.com/watch?v=89ZUjfKw-88>)
+	- [這款網遊九成以上角色都是酪梨 \! 這款遊戲真的沒問題嗎? \- YouTube](<#youtube-video-qM-8TtSMS04>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-qM-8TtSMS04.md>) | [url](<https://www.youtube.com/watch?v=qM-8TtSMS04>)
 
 ### group-youtube-video-by-category-D
 
-- [【枫说】洗脑程度测试：盘点中共打进人们脑海中的十个思想钢印。连马斯克都中招了 \- YouTube](<#youtube-video-m0WEYBL538I>) | [file](<youtube/youtube-video/youtube-video-m0WEYBL538I.md>) | [url](<https://www.youtube.com/watch?v=m0WEYBL538I>)
+- [【枫说】洗脑程度测试：盘点中共打进人们脑海中的十个思想钢印。连马斯克都中招了 \- YouTube](<#youtube-video-m0WEYBL538I>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-m0WEYBL538I.md>) | [url](<https://www.youtube.com/watch?v=m0WEYBL538I>)
 
 #### youtube-video-m0WEYBL538I
 
-[【枫说】洗脑程度测试：盘点中共打进人们脑海中的十个思想钢印。连马斯克都中招了 \- YouTube](<#youtube-video-m0WEYBL538I>) | [file](<youtube/youtube-video/youtube-video-m0WEYBL538I.md>) | [url](<https://www.youtube.com/watch?v=m0WEYBL538I>)
+[【枫说】洗脑程度测试：盘点中共打进人们脑海中的十个思想钢印。连马斯克都中招了 \- YouTube](<#youtube-video-m0WEYBL538I>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-m0WEYBL538I.md>) | [url](<https://www.youtube.com/watch?v=m0WEYBL538I>)
 
 请大家帮忙订阅、点赞、评论，谢谢！成为此频道的会员即可获享以下福利：https://www.youtube.com/channel/UCgdGtFg63SjhXXDLJveCCcg/join备用平台：https://www.patreon.com/dkctyb3344防失联Twitter：https://x.co...
 
@@ -111,12 +112,12 @@ Created at: 2025-01-11T19:26:32+08:00
 
 ### group-youtube-video-by-category-G
 
-- [马斯克等大佬是怎么记住这么多知识的？【考试脑科学】 \- YouTube](<#youtube-video-VSe7Uhi4jTQ>) | [file](<youtube/youtube-video/youtube-video-VSe7Uhi4jTQ.md>) | [url](<https://www.youtube.com/watch?v=VSe7Uhi4jTQ>)
-- [I'm 57\. If you're in your 20's please watch this\. \- YouTube](<#youtube-video-FylHa4_neOA>) | [file](<youtube/youtube-video/youtube-video-FylHa4_neOA.md>) | [url](<https://www.youtube.com/watch?v=FylHa4_neOA>)
+- [马斯克等大佬是怎么记住这么多知识的？【考试脑科学】 \- YouTube](<#youtube-video-VSe7Uhi4jTQ>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-VSe7Uhi4jTQ.md>) | [url](<https://www.youtube.com/watch?v=VSe7Uhi4jTQ>)
+- [I'm 57\. If you're in your 20's please watch this\. \- YouTube](<#youtube-video-FylHa4_neOA>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-FylHa4_neOA.md>) | [url](<https://www.youtube.com/watch?v=FylHa4_neOA>)
 
 #### youtube-video-VSe7Uhi4jTQ
 
-[马斯克等大佬是怎么记住这么多知识的？【考试脑科学】 \- YouTube](<#youtube-video-VSe7Uhi4jTQ>) | [file](<youtube/youtube-video/youtube-video-VSe7Uhi4jTQ.md>) | [url](<https://www.youtube.com/watch?v=VSe7Uhi4jTQ>)
+[马斯克等大佬是怎么记住这么多知识的？【考试脑科学】 \- YouTube](<#youtube-video-VSe7Uhi4jTQ>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-VSe7Uhi4jTQ.md>) | [url](<https://www.youtube.com/watch?v=VSe7Uhi4jTQ>)
 
 如果学习方法存在问题，即使身边有再多的知识，对我们来说也不过是无意义的信息而已。如果你对汲取知识有着同样的疑惑，那本期视频，我们将一起去探索人类的大脑，学习如何记住自己读过的书！📮我的日常思考与灵感：https://theharry.notion.site🎬章节：00:00 引入01:20 长期记忆与短期记忆...
 
@@ -161,7 +162,7 @@ Created at: 2024-11-28T16:12:44+08:00
 
 #### youtube-video-FylHa4_neOA
 
-[I'm 57\. If you're in your 20's please watch this\. \- YouTube](<#youtube-video-FylHa4_neOA>) | [file](<youtube/youtube-video/youtube-video-FylHa4_neOA.md>) | [url](<https://www.youtube.com/watch?v=FylHa4_neOA>)
+[I'm 57\. If you're in your 20's please watch this\. \- YouTube](<#youtube-video-FylHa4_neOA>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-FylHa4_neOA.md>) | [url](<https://www.youtube.com/watch?v=FylHa4_neOA>)
 
 Get a FREE AI-built Shopify store in less than 2 minutes:https://www.buildyourstore.ai/mark-tilburyUse the promo code TILBURY to get a free share worth up to...
 
@@ -254,12 +255,12 @@ Created at: 2024-11-22T21:32:53+08:00
 
 ### group-youtube-video-by-category-J2
 
-- [銷售超過8萬份的酪梨純愛遊戲 ?\! 這款作品為什麼這麼強 ? 【酪梨好好吃】 \- YouTube](<#youtube-video-89ZUjfKw-88>) | [file](<youtube/youtube-video/youtube-video-89ZUjfKw-88.md>) | [url](<https://www.youtube.com/watch?v=89ZUjfKw-88>)
-- [這款網遊九成以上角色都是酪梨 \! 這款遊戲真的沒問題嗎? \- YouTube](<#youtube-video-qM-8TtSMS04>) | [file](<youtube/youtube-video/youtube-video-qM-8TtSMS04.md>) | [url](<https://www.youtube.com/watch?v=qM-8TtSMS04>)
+- [銷售超過8萬份的酪梨純愛遊戲 ?\! 這款作品為什麼這麼強 ? 【酪梨好好吃】 \- YouTube](<#youtube-video-89ZUjfKw-88>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-89ZUjfKw-88.md>) | [url](<https://www.youtube.com/watch?v=89ZUjfKw-88>)
+- [這款網遊九成以上角色都是酪梨 \! 這款遊戲真的沒問題嗎? \- YouTube](<#youtube-video-qM-8TtSMS04>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-qM-8TtSMS04.md>) | [url](<https://www.youtube.com/watch?v=qM-8TtSMS04>)
 
 #### youtube-video-89ZUjfKw-88
 
-[銷售超過8萬份的酪梨純愛遊戲 ?\! 這款作品為什麼這麼強 ? 【酪梨好好吃】 \- YouTube](<#youtube-video-89ZUjfKw-88>) | [file](<youtube/youtube-video/youtube-video-89ZUjfKw-88.md>) | [url](<https://www.youtube.com/watch?v=89ZUjfKw-88>)
+[銷售超過8萬份的酪梨純愛遊戲 ?\! 這款作品為什麼這麼強 ? 【酪梨好好吃】 \- YouTube](<#youtube-video-89ZUjfKw-88>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-89ZUjfKw-88.md>) | [url](<https://www.youtube.com/watch?v=89ZUjfKw-88>)
 
 遊戲名稱 : 幸福家里蹲的養成方法 遊戲購買 : DLsite 🔔小宇的各種社群網站‣‣https://linktr.ee/holyloliempire 🔔免費領取DLsite優惠券‣‣https://reurl.cc/zpovk6 🔔神聖蘿碼帝國DC群‣‣ https://discord.gg/SWWWK9b...
 
@@ -281,7 +282,7 @@ Created at: 2026-02-04T00:26:27+08:00
 
 #### youtube-video-qM-8TtSMS04
 
-[這款網遊九成以上角色都是酪梨 \! 這款遊戲真的沒問題嗎? \- YouTube](<#youtube-video-qM-8TtSMS04>) | [file](<youtube/youtube-video/youtube-video-qM-8TtSMS04.md>) | [url](<https://www.youtube.com/watch?v=qM-8TtSMS04>)
+[這款網遊九成以上角色都是酪梨 \! 這款遊戲真的沒問題嗎? \- YouTube](<#youtube-video-qM-8TtSMS04>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-qM-8TtSMS04.md>) | [url](<https://www.youtube.com/watch?v=qM-8TtSMS04>)
 
 遊戲名稱 : りりぃあんじぇ遊戲平台 : FANZA GAMES🔔小宇的各種社群網站‣‣https://linktr.ee/holyloliempire 🔔免費領取DLsite優惠券‣‣https://reurl.cc/zpovk6 🔔神聖蘿碼帝國DC群‣‣  https://discord.gg/SWWWK9b...
 
@@ -304,21 +305,21 @@ Created at: 2026-02-02T02:03:32+08:00
 ## youtube-channel
 
 - [D](<#group-youtube-channel-by-category-D>)
-	- [多伦多方脸 \- YouTube](<#youtube-channel-UCzYYzigb1vXR0GQXXBja2kg>) | [file](<youtube/youtube-channel/youtube-channel-UCzYYzigb1vXR0GQXXBja2kg.md>) | [url](<https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg>)
-	- [安争鸣（Stella An） \- YouTube](<#youtube-channel-UCBNpk9A7simOnmlcJPkxg5w>) | [file](<youtube/youtube-channel/youtube-channel-UCBNpk9A7simOnmlcJPkxg5w.md>) | [url](<https://www.youtube.com/channel/UCBNpk9A7simOnmlcJPkxg5w>)
+	- [多伦多方脸 \- YouTube](<#youtube-channel-UCzYYzigb1vXR0GQXXBja2kg>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCzYYzigb1vXR0GQXXBja2kg.md>) | [url](<https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg>)
+	- [安争鸣（Stella An） \- YouTube](<#youtube-channel-UCBNpk9A7simOnmlcJPkxg5w>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCBNpk9A7simOnmlcJPkxg5w.md>) | [url](<https://www.youtube.com/channel/UCBNpk9A7simOnmlcJPkxg5w>)
 - [G](<#group-youtube-channel-by-category-G>)
-	- [Mark Tilbury \- YouTube](<#youtube-channel-UCxgAuX3XZROujMmGphN_scA>) | [file](<youtube/youtube-channel/youtube-channel-UCxgAuX3XZROujMmGphN_scA.md>) | [url](<https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA>)
+	- [Mark Tilbury \- YouTube](<#youtube-channel-UCxgAuX3XZROujMmGphN_scA>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCxgAuX3XZROujMmGphN_scA.md>) | [url](<https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA>)
 - [J2](<#group-youtube-channel-by-category-J2>)
-	- [神聖蘿碼帝國\-小宇🔞 \- YouTube](<#youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q>) | [file](<youtube/youtube-channel/youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q.md>) | [url](<https://www.youtube.com/channel/UCXlXvZRqoiSFso7hfoAnw3Q>)
+	- [神聖蘿碼帝國\-小宇🔞 \- YouTube](<#youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q.md>) | [url](<https://www.youtube.com/channel/UCXlXvZRqoiSFso7hfoAnw3Q>)
 
 ### group-youtube-channel-by-category-D
 
-- [多伦多方脸 \- YouTube](<#youtube-channel-UCzYYzigb1vXR0GQXXBja2kg>) | [file](<youtube/youtube-channel/youtube-channel-UCzYYzigb1vXR0GQXXBja2kg.md>) | [url](<https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg>)
-- [安争鸣（Stella An） \- YouTube](<#youtube-channel-UCBNpk9A7simOnmlcJPkxg5w>) | [file](<youtube/youtube-channel/youtube-channel-UCBNpk9A7simOnmlcJPkxg5w.md>) | [url](<https://www.youtube.com/channel/UCBNpk9A7simOnmlcJPkxg5w>)
+- [多伦多方脸 \- YouTube](<#youtube-channel-UCzYYzigb1vXR0GQXXBja2kg>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCzYYzigb1vXR0GQXXBja2kg.md>) | [url](<https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg>)
+- [安争鸣（Stella An） \- YouTube](<#youtube-channel-UCBNpk9A7simOnmlcJPkxg5w>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCBNpk9A7simOnmlcJPkxg5w.md>) | [url](<https://www.youtube.com/channel/UCBNpk9A7simOnmlcJPkxg5w>)
 
 #### youtube-channel-UCzYYzigb1vXR0GQXXBja2kg
 
-[多伦多方脸 \- YouTube](<#youtube-channel-UCzYYzigb1vXR0GQXXBja2kg>) | [file](<youtube/youtube-channel/youtube-channel-UCzYYzigb1vXR0GQXXBja2kg.md>) | [url](<https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg>)
+[多伦多方脸 \- YouTube](<#youtube-channel-UCzYYzigb1vXR0GQXXBja2kg>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCzYYzigb1vXR0GQXXBja2kg.md>) | [url](<https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg>)
 
 多谢你对我的支持。推特：多伦多方脸 @torontobigface商务联系邮箱：Torontosquareface@gmail.com
 
@@ -338,7 +339,7 @@ Created at: 2025-02-04T16:33:54+08:00
 
 #### youtube-channel-UCBNpk9A7simOnmlcJPkxg5w
 
-[安争鸣（Stella An） \- YouTube](<#youtube-channel-UCBNpk9A7simOnmlcJPkxg5w>) | [file](<youtube/youtube-channel/youtube-channel-UCBNpk9A7simOnmlcJPkxg5w.md>) | [url](<https://www.youtube.com/channel/UCBNpk9A7simOnmlcJPkxg5w>)
+[安争鸣（Stella An） \- YouTube](<#youtube-channel-UCBNpk9A7simOnmlcJPkxg5w>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCBNpk9A7simOnmlcJPkxg5w.md>) | [url](<https://www.youtube.com/channel/UCBNpk9A7simOnmlcJPkxg5w>)
 
 阅读丰富人生(●'◡'●)欢迎来到我的频道！这里有许多蛮有趣的书，还有一个蛮有趣的人。推特：@starlightcaesar副频道：小鸣说 @xiaomingtalk
 
@@ -359,11 +360,11 @@ Created at: 2024-11-28T16:57:07+08:00
 
 ### group-youtube-channel-by-category-G
 
-- [Mark Tilbury \- YouTube](<#youtube-channel-UCxgAuX3XZROujMmGphN_scA>) | [file](<youtube/youtube-channel/youtube-channel-UCxgAuX3XZROujMmGphN_scA.md>) | [url](<https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA>)
+- [Mark Tilbury \- YouTube](<#youtube-channel-UCxgAuX3XZROujMmGphN_scA>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCxgAuX3XZROujMmGphN_scA.md>) | [url](<https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA>)
 
 #### youtube-channel-UCxgAuX3XZROujMmGphN_scA
 
-[Mark Tilbury \- YouTube](<#youtube-channel-UCxgAuX3XZROujMmGphN_scA>) | [file](<youtube/youtube-channel/youtube-channel-UCxgAuX3XZROujMmGphN_scA.md>) | [url](<https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA>)
+[Mark Tilbury \- YouTube](<#youtube-channel-UCxgAuX3XZROujMmGphN_scA>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCxgAuX3XZROujMmGphN_scA.md>) | [url](<https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA>)
 
 I firmly believe that anyone who learns the skill sets of a millionaire can become a millionaire, ANYONE...
 
@@ -384,11 +385,11 @@ Created at: 2024-11-22T21:32:53+08:00
 
 ### group-youtube-channel-by-category-J2
 
-- [神聖蘿碼帝國\-小宇🔞 \- YouTube](<#youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q>) | [file](<youtube/youtube-channel/youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q.md>) | [url](<https://www.youtube.com/channel/UCXlXvZRqoiSFso7hfoAnw3Q>)
+- [神聖蘿碼帝國\-小宇🔞 \- YouTube](<#youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q.md>) | [url](<https://www.youtube.com/channel/UCXlXvZRqoiSFso7hfoAnw3Q>)
 
 #### youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q
 
-[神聖蘿碼帝國\-小宇🔞 \- YouTube](<#youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q>) | [file](<youtube/youtube-channel/youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q.md>) | [url](<https://www.youtube.com/channel/UCXlXvZRqoiSFso7hfoAnw3Q>)
+[神聖蘿碼帝國\-小宇🔞 \- YouTube](<#youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q.md>) | [url](<https://www.youtube.com/channel/UCXlXvZRqoiSFso7hfoAnw3Q>)
 
 哈囉 大家好 我是小宇<br>歡迎來到我的頻道神聖蘿碼帝國~ <br>每周都會有黃油介紹的影片 可以加入我的DC群組成為蘿碼帝國的國民!<br><br>廠商有任何工商需求都可以透過信箱聯絡我~<br>Gamil : holyloliempire@gmail.com
 
@@ -411,28 +412,28 @@ Created at: 2026-02-02T02:09:25+08:00
 ## bilibili-video
 
 - [G](<#group-bilibili-video-by-category-G>)
-	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
-	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
-	- [博学方法：如何掌握任何技能！\_哔哩哔哩\_bilibili](<#bilibili-video-BV1DsgEz5E9s>) | [file](<bilibili/bilibili-video/bilibili-video-BV1DsgEz5E9s.md>) | [url](<https://www.bilibili.com/video/BV1DsgEz5E9s>)
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+	- [博学方法：如何掌握任何技能！\_哔哩哔哩\_bilibili](<#bilibili-video-BV1DsgEz5E9s>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1DsgEz5E9s.md>) | [url](<https://www.bilibili.com/video/BV1DsgEz5E9s>)
 - [J2](<#group-bilibili-video-by-category-J2>)
-	- [乡间的暑假生活，这光把男主介绍给全村人就十几分钟，我的天。。。。。。\_单机游戏热门视频\_哔哩哔哩\_bilibili](<#bilibili-video-BV1Fv411N7Rq>) | [file](<bilibili/bilibili-video/bilibili-video-BV1Fv411N7Rq.md>) | [url](<https://www.bilibili.com/video/BV1Fv411N7Rq>)
-	- [伊吹：当天的错误就要当天教育哦\_哔哩哔哩\_bilibili](<#bilibili-video-BV1JSr7YZE1V>) | [file](<bilibili/bilibili-video/bilibili-video-BV1JSr7YZE1V.md>) | [url](<https://www.bilibili.com/video/BV1JSr7YZE1V>)
-	- [真可爱捏~\_哔哩哔哩\_bilibili](<#bilibili-video-BV1u3411a7qy>) | [file](<bilibili/bilibili-video/bilibili-video-BV1u3411a7qy.md>) | [url](<https://www.bilibili.com/video/BV1u3411a7qy>)
+	- [乡间的暑假生活，这光把男主介绍给全村人就十几分钟，我的天。。。。。。\_单机游戏热门视频\_哔哩哔哩\_bilibili](<#bilibili-video-BV1Fv411N7Rq>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1Fv411N7Rq.md>) | [url](<https://www.bilibili.com/video/BV1Fv411N7Rq>)
+	- [伊吹：当天的错误就要当天教育哦\_哔哩哔哩\_bilibili](<#bilibili-video-BV1JSr7YZE1V>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1JSr7YZE1V.md>) | [url](<https://www.bilibili.com/video/BV1JSr7YZE1V>)
+	- [真可爱捏~\_哔哩哔哩\_bilibili](<#bilibili-video-BV1u3411a7qy>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1u3411a7qy.md>) | [url](<https://www.bilibili.com/video/BV1u3411a7qy>)
 - [K](<#group-bilibili-video-by-category-K>)
-	- [【彩色修复】1933年希特勒总理就职演讲完整版，令人不寒而栗\_哔哩哔哩\_bilibili](<#bilibili-video-BV1V5p4zMEHW>) | [file](<bilibili/bilibili-video/bilibili-video-BV1V5p4zMEHW.md>) | [url](<https://www.bilibili.com/video/BV1V5p4zMEHW>)
-	- [40年前那个令人窒息的红色帝国\_哔哩哔哩\_bilibili](<#bilibili-video-BV1r5411W7JG>) | [file](<bilibili/bilibili-video/bilibili-video-BV1r5411W7JG.md>) | [url](<https://www.bilibili.com/video/BV1r5411W7JG>)
+	- [【彩色修复】1933年希特勒总理就职演讲完整版，令人不寒而栗\_哔哩哔哩\_bilibili](<#bilibili-video-BV1V5p4zMEHW>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1V5p4zMEHW.md>) | [url](<https://www.bilibili.com/video/BV1V5p4zMEHW>)
+	- [40年前那个令人窒息的红色帝国\_哔哩哔哩\_bilibili](<#bilibili-video-BV1r5411W7JG>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1r5411W7JG.md>) | [url](<https://www.bilibili.com/video/BV1r5411W7JG>)
 - [O1](<#group-bilibili-video-by-category-O1>)
-	- [【数学杂谈】硬核模式学数学？你欧拉转世吗？\_哔哩哔哩\_bilibili](<#bilibili-video-BV1X1BCY1EHp>) | [file](<bilibili/bilibili-video/bilibili-video-BV1X1BCY1EHp.md>) | [url](<https://www.bilibili.com/video/BV1X1BCY1EHp>)
+	- [【数学杂谈】硬核模式学数学？你欧拉转世吗？\_哔哩哔哩\_bilibili](<#bilibili-video-BV1X1BCY1EHp>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1X1BCY1EHp.md>) | [url](<https://www.bilibili.com/video/BV1X1BCY1EHp>)
 
 ### group-bilibili-video-by-category-G
 
-- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
-- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
-- [博学方法：如何掌握任何技能！\_哔哩哔哩\_bilibili](<#bilibili-video-BV1DsgEz5E9s>) | [file](<bilibili/bilibili-video/bilibili-video-BV1DsgEz5E9s.md>) | [url](<https://www.bilibili.com/video/BV1DsgEz5E9s>)
+- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- [博学方法：如何掌握任何技能！\_哔哩哔哩\_bilibili](<#bilibili-video-BV1DsgEz5E9s>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1DsgEz5E9s.md>) | [url](<https://www.bilibili.com/video/BV1DsgEz5E9s>)
 
 #### bilibili-video-BV1L3zFBWEFV
 
-[2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+[2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
 
 视频播放量 1269、弹幕量 2、点赞数 71、投硬币枚数 23、收藏人数 289、转发人数 17, 视频作者 道一又道, 作者简介 1V1论文辅导发表，毕业论文，中/英文会议普刊、中文核心、SCI、数模转学术论文等，S信咨询 关注gzh 【睿森科研】，
 
@@ -457,7 +458,7 @@ Created at: 2026-02-03T04:10:07+08:00
 
 #### bilibili-video-BV1W9zyBaEf2
 
-[西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+[西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
 
 本视频深度拆解西蒙学习法的底层逻辑，包括大脑组块化存储机制、有效学习时间的计算公式、以及可直接复制的"三三制"操作方法。无论你想学编程、投资、写作还是任何新技能，这套被马斯克、费曼等顶级人才验证过的方法论，都能帮你在最短时间内完成认知升级。
 
@@ -484,7 +485,7 @@ Created at: 2026-01-26T14:08:00+08:00
 
 #### bilibili-video-BV1DsgEz5E9s
 
-[博学方法：如何掌握任何技能！\_哔哩哔哩\_bilibili](<#bilibili-video-BV1DsgEz5E9s>) | [file](<bilibili/bilibili-video/bilibili-video-BV1DsgEz5E9s.md>) | [url](<https://www.bilibili.com/video/BV1DsgEz5E9s>)
+[博学方法：如何掌握任何技能！\_哔哩哔哩\_bilibili](<#bilibili-video-BV1DsgEz5E9s>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1DsgEz5E9s.md>) | [url](<https://www.bilibili.com/video/BV1DsgEz5E9s>)
 
 No description
 
@@ -544,13 +545,13 @@ Created at: 2026-01-21T21:30:00+08:00
 
 ### group-bilibili-video-by-category-J2
 
-- [乡间的暑假生活，这光把男主介绍给全村人就十几分钟，我的天。。。。。。\_单机游戏热门视频\_哔哩哔哩\_bilibili](<#bilibili-video-BV1Fv411N7Rq>) | [file](<bilibili/bilibili-video/bilibili-video-BV1Fv411N7Rq.md>) | [url](<https://www.bilibili.com/video/BV1Fv411N7Rq>)
-- [伊吹：当天的错误就要当天教育哦\_哔哩哔哩\_bilibili](<#bilibili-video-BV1JSr7YZE1V>) | [file](<bilibili/bilibili-video/bilibili-video-BV1JSr7YZE1V.md>) | [url](<https://www.bilibili.com/video/BV1JSr7YZE1V>)
-- [真可爱捏~\_哔哩哔哩\_bilibili](<#bilibili-video-BV1u3411a7qy>) | [file](<bilibili/bilibili-video/bilibili-video-BV1u3411a7qy.md>) | [url](<https://www.bilibili.com/video/BV1u3411a7qy>)
+- [乡间的暑假生活，这光把男主介绍给全村人就十几分钟，我的天。。。。。。\_单机游戏热门视频\_哔哩哔哩\_bilibili](<#bilibili-video-BV1Fv411N7Rq>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1Fv411N7Rq.md>) | [url](<https://www.bilibili.com/video/BV1Fv411N7Rq>)
+- [伊吹：当天的错误就要当天教育哦\_哔哩哔哩\_bilibili](<#bilibili-video-BV1JSr7YZE1V>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1JSr7YZE1V.md>) | [url](<https://www.bilibili.com/video/BV1JSr7YZE1V>)
+- [真可爱捏~\_哔哩哔哩\_bilibili](<#bilibili-video-BV1u3411a7qy>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1u3411a7qy.md>) | [url](<https://www.bilibili.com/video/BV1u3411a7qy>)
 
 #### bilibili-video-BV1Fv411N7Rq
 
-[乡间的暑假生活，这光把男主介绍给全村人就十几分钟，我的天。。。。。。\_单机游戏热门视频\_哔哩哔哩\_bilibili](<#bilibili-video-BV1Fv411N7Rq>) | [file](<bilibili/bilibili-video/bilibili-video-BV1Fv411N7Rq.md>) | [url](<https://www.bilibili.com/video/BV1Fv411N7Rq>)
+[乡间的暑假生活，这光把男主介绍给全村人就十几分钟，我的天。。。。。。\_单机游戏热门视频\_哔哩哔哩\_bilibili](<#bilibili-video-BV1Fv411N7Rq>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1Fv411N7Rq.md>) | [url](<https://www.bilibili.com/video/BV1Fv411N7Rq>)
 
 No description
 
@@ -581,7 +582,7 @@ Created at: 2025-02-26T23:39:10+08:00
 
 #### bilibili-video-BV1JSr7YZE1V
 
-[伊吹：当天的错误就要当天教育哦\_哔哩哔哩\_bilibili](<#bilibili-video-BV1JSr7YZE1V>) | [file](<bilibili/bilibili-video/bilibili-video-BV1JSr7YZE1V.md>) | [url](<https://www.bilibili.com/video/BV1JSr7YZE1V>)
+[伊吹：当天的错误就要当天教育哦\_哔哩哔哩\_bilibili](<#bilibili-video-BV1JSr7YZE1V>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1JSr7YZE1V.md>) | [url](<https://www.bilibili.com/video/BV1JSr7YZE1V>)
 
 No description
 
@@ -602,7 +603,7 @@ Created at: 2025-02-25T23:25:13+08:00
 
 #### bilibili-video-BV1u3411a7qy
 
-[真可爱捏~\_哔哩哔哩\_bilibili](<#bilibili-video-BV1u3411a7qy>) | [file](<bilibili/bilibili-video/bilibili-video-BV1u3411a7qy.md>) | [url](<https://www.bilibili.com/video/BV1u3411a7qy>)
+[真可爱捏~\_哔哩哔哩\_bilibili](<#bilibili-video-BV1u3411a7qy>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1u3411a7qy.md>) | [url](<https://www.bilibili.com/video/BV1u3411a7qy>)
 
 No description
 
@@ -626,12 +627,12 @@ Created at: 2025-02-25T12:04:34+08:00
 
 ### group-bilibili-video-by-category-K
 
-- [【彩色修复】1933年希特勒总理就职演讲完整版，令人不寒而栗\_哔哩哔哩\_bilibili](<#bilibili-video-BV1V5p4zMEHW>) | [file](<bilibili/bilibili-video/bilibili-video-BV1V5p4zMEHW.md>) | [url](<https://www.bilibili.com/video/BV1V5p4zMEHW>)
-- [40年前那个令人窒息的红色帝国\_哔哩哔哩\_bilibili](<#bilibili-video-BV1r5411W7JG>) | [file](<bilibili/bilibili-video/bilibili-video-BV1r5411W7JG.md>) | [url](<https://www.bilibili.com/video/BV1r5411W7JG>)
+- [【彩色修复】1933年希特勒总理就职演讲完整版，令人不寒而栗\_哔哩哔哩\_bilibili](<#bilibili-video-BV1V5p4zMEHW>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1V5p4zMEHW.md>) | [url](<https://www.bilibili.com/video/BV1V5p4zMEHW>)
+- [40年前那个令人窒息的红色帝国\_哔哩哔哩\_bilibili](<#bilibili-video-BV1r5411W7JG>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1r5411W7JG.md>) | [url](<https://www.bilibili.com/video/BV1r5411W7JG>)
 
 #### bilibili-video-BV1V5p4zMEHW
 
-[【彩色修复】1933年希特勒总理就职演讲完整版，令人不寒而栗\_哔哩哔哩\_bilibili](<#bilibili-video-BV1V5p4zMEHW>) | [file](<bilibili/bilibili-video/bilibili-video-BV1V5p4zMEHW.md>) | [url](<https://www.bilibili.com/video/BV1V5p4zMEHW>)
+[【彩色修复】1933年希特勒总理就职演讲完整版，令人不寒而栗\_哔哩哔哩\_bilibili](<#bilibili-video-BV1V5p4zMEHW>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1V5p4zMEHW.md>) | [url](<https://www.bilibili.com/video/BV1V5p4zMEHW>)
 
 No description
 
@@ -653,7 +654,7 @@ Created at: 2025-09-20T14:17:16+08:00
 
 #### bilibili-video-BV1r5411W7JG
 
-[40年前那个令人窒息的红色帝国\_哔哩哔哩\_bilibili](<#bilibili-video-BV1r5411W7JG>) | [file](<bilibili/bilibili-video/bilibili-video-BV1r5411W7JG.md>) | [url](<https://www.bilibili.com/video/BV1r5411W7JG>)
+[40年前那个令人窒息的红色帝国\_哔哩哔哩\_bilibili](<#bilibili-video-BV1r5411W7JG>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1r5411W7JG.md>) | [url](<https://www.bilibili.com/video/BV1r5411W7JG>)
 
 No description
 
@@ -675,11 +676,11 @@ Created at: 2025-09-18T16:03:18+08:00
 
 ### group-bilibili-video-by-category-O1
 
-- [【数学杂谈】硬核模式学数学？你欧拉转世吗？\_哔哩哔哩\_bilibili](<#bilibili-video-BV1X1BCY1EHp>) | [file](<bilibili/bilibili-video/bilibili-video-BV1X1BCY1EHp.md>) | [url](<https://www.bilibili.com/video/BV1X1BCY1EHp>)
+- [【数学杂谈】硬核模式学数学？你欧拉转世吗？\_哔哩哔哩\_bilibili](<#bilibili-video-BV1X1BCY1EHp>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1X1BCY1EHp.md>) | [url](<https://www.bilibili.com/video/BV1X1BCY1EHp>)
 
 #### bilibili-video-BV1X1BCY1EHp
 
-[【数学杂谈】硬核模式学数学？你欧拉转世吗？\_哔哩哔哩\_bilibili](<#bilibili-video-BV1X1BCY1EHp>) | [file](<bilibili/bilibili-video/bilibili-video-BV1X1BCY1EHp.md>) | [url](<https://www.bilibili.com/video/BV1X1BCY1EHp>)
+[【数学杂谈】硬核模式学数学？你欧拉转世吗？\_哔哩哔哩\_bilibili](<#bilibili-video-BV1X1BCY1EHp>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1X1BCY1EHp.md>) | [url](<https://www.bilibili.com/video/BV1X1BCY1EHp>)
 
 No description
 
@@ -717,19 +718,19 @@ Created at: 2025-01-28T15:26:29+08:00
 ## bilibili-bangumi
 
 - [K](<#group-bilibili-bangumi-by-category-K>)
-	- [创新中国\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md58712>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md58712.md>) | [url](<https://www.bilibili.com/bangumi/media/md58712>)
-	- [大国崛起\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28233889>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28233889.md>) | [url](<https://www.bilibili.com/bangumi/media/md28233889>)
+	- [创新中国\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md58712>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md58712.md>) | [url](<https://www.bilibili.com/bangumi/media/md58712>)
+	- [大国崛起\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28233889>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28233889.md>) | [url](<https://www.bilibili.com/bangumi/media/md28233889>)
 - [R1](<#group-bilibili-bangumi-by-category-R1>)
-	- [短路的大脑 第一季\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28220437>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28220437.md>) | [url](<https://www.bilibili.com/bangumi/media/md28220437>)
+	- [短路的大脑 第一季\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28220437>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28220437.md>) | [url](<https://www.bilibili.com/bangumi/media/md28220437>)
 
 ### group-bilibili-bangumi-by-category-K
 
-- [创新中国\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md58712>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md58712.md>) | [url](<https://www.bilibili.com/bangumi/media/md58712>)
-- [大国崛起\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28233889>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28233889.md>) | [url](<https://www.bilibili.com/bangumi/media/md28233889>)
+- [创新中国\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md58712>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md58712.md>) | [url](<https://www.bilibili.com/bangumi/media/md58712>)
+- [大国崛起\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28233889>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28233889.md>) | [url](<https://www.bilibili.com/bangumi/media/md28233889>)
 
 #### bilibili-bangumi-media-md58712
 
-[创新中国\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md58712>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md58712.md>) | [url](<https://www.bilibili.com/bangumi/media/md58712>)
+[创新中国\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md58712>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md58712.md>) | [url](<https://www.bilibili.com/bangumi/media/md58712>)
 
 《创新中国》是一部讲述中国最新科技成就和创新精神的纪录片。它关注最前沿的科学突破、最新潮的科技热点，聚焦信息技术、新型能源、中国制造、生命科学、航空航天与海洋探索等前沿领域，用鲜活的故事记录当下中国伟大的创新实践。
 
@@ -757,7 +758,7 @@ Created at: 2025-09-14T16:34:49+08:00
 
 #### bilibili-bangumi-media-md28233889
 
-[大国崛起\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28233889>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28233889.md>) | [url](<https://www.bilibili.com/bangumi/media/md28233889>)
+[大国崛起\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28233889>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28233889.md>) | [url](<https://www.bilibili.com/bangumi/media/md28233889>)
 
 本片由中央电视台委托制作，三多堂传媒承制了其中六集以及全片的音乐编辑工作。该片全面展示了葡萄牙、西班牙、 荷兰、英国、法国、德国、日本、 俄罗斯和美国等九个大国兴衰更替的故事。该片力求以历史的眼光和全球的视野，在风云四起的时代变迁中， 寻找推动 国家发展的根本力量，寻找各国在强国过程中创造的属于全人类的文明成果。该片播出后，在海内外获得强烈反响，成为改革开放以来国内外影响力最大的纪录片之一。
 
@@ -795,11 +796,11 @@ Created at: 2025-07-27T20:27:51+08:00
 
 ### group-bilibili-bangumi-by-category-R1
 
-- [短路的大脑 第一季\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28220437>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28220437.md>) | [url](<https://www.bilibili.com/bangumi/media/md28220437>)
+- [短路的大脑 第一季\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28220437>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28220437.md>) | [url](<https://www.bilibili.com/bangumi/media/md28220437>)
 
 #### bilibili-bangumi-media-md28220437
 
-[短路的大脑 第一季\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28220437>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28220437.md>) | [url](<https://www.bilibili.com/bangumi/media/md28220437>)
+[短路的大脑 第一季\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28220437>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28220437.md>) | [url](<https://www.bilibili.com/bangumi/media/md28220437>)
 
 你对你的大脑了解吗？人的感官具有一定的欺骗性。我们将会看到一些稀奇古怪的实验。这些实验都将证明，大脑有时会犯下一些简单错误。这些反映了大脑的欺骗和虚幻的关键所在，也是解开大脑出错之谜的钥匙。
 
@@ -825,40 +826,40 @@ Created at: 2025-02-07T22:20:18+08:00
 ## bilibili-user
 
 - [G](<#group-bilibili-user-by-category-G>)
-	- [道一又道\-bilibili\-哔哩哔哩](<#bilibili-user-3546706654268153>) | [file](<bilibili/bilibili-user/bilibili-user-3546706654268153.md>) | [url](<https://space.bilibili.com/3546706654268153>)
-	- [认知刺客\-bilibili\-哔哩哔哩](<#bilibili-user-3546966132787579>) | [file](<bilibili/bilibili-user/bilibili-user-3546966132787579.md>) | [url](<https://space.bilibili.com/3546966132787579>)
-	- [YouTube精选速递\-bilibili\-哔哩哔哩](<#bilibili-user-36141489>) | [file](<bilibili/bilibili-user/bilibili-user-36141489.md>) | [url](<https://space.bilibili.com/36141489/>)
+	- [道一又道\-bilibili\-哔哩哔哩](<#bilibili-user-3546706654268153>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-3546706654268153.md>) | [url](<https://space.bilibili.com/3546706654268153>)
+	- [认知刺客\-bilibili\-哔哩哔哩](<#bilibili-user-3546966132787579>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-3546966132787579.md>) | [url](<https://space.bilibili.com/3546966132787579>)
+	- [YouTube精选速递\-bilibili\-哔哩哔哩](<#bilibili-user-36141489>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-36141489.md>) | [url](<https://space.bilibili.com/36141489/>)
 - [J2](<#group-bilibili-user-by-category-J2>)
-	- [瑛之诗\-bilibili\-哔哩哔哩](<#bilibili-user-143432483>) | [file](<bilibili/bilibili-user/bilibili-user-143432483.md>) | [url](<https://space.bilibili.com/143432483>)
-	- [隅野贝\-bilibili\-哔哩哔哩](<#bilibili-user-34106682>) | [file](<bilibili/bilibili-user/bilibili-user-34106682.md>) | [url](<https://space.bilibili.com/34106682>)
-	- [风辰琳雪儿\-bilibili\-哔哩哔哩](<#bilibili-user-104880307>) | [file](<bilibili/bilibili-user/bilibili-user-104880307.md>) | [url](<https://space.bilibili.com/104880307>)
-	- [伊吹继续生\-bilibili\-哔哩哔哩](<#bilibili-user-3493079608723871>) | [file](<bilibili/bilibili-user/bilibili-user-3493079608723871.md>) | [url](<https://space.bilibili.com/3493079608723871>)
-	- [阿尔弗雷特\-科尔托\-bilibili\-哔哩哔哩](<#bilibili-user-47218557>) | [file](<bilibili/bilibili-user/bilibili-user-47218557.md>) | [url](<https://space.bilibili.com/47218557>)
+	- [瑛之诗\-bilibili\-哔哩哔哩](<#bilibili-user-143432483>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-143432483.md>) | [url](<https://space.bilibili.com/143432483>)
+	- [隅野贝\-bilibili\-哔哩哔哩](<#bilibili-user-34106682>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-34106682.md>) | [url](<https://space.bilibili.com/34106682>)
+	- [风辰琳雪儿\-bilibili\-哔哩哔哩](<#bilibili-user-104880307>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-104880307.md>) | [url](<https://space.bilibili.com/104880307>)
+	- [伊吹继续生\-bilibili\-哔哩哔哩](<#bilibili-user-3493079608723871>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-3493079608723871.md>) | [url](<https://space.bilibili.com/3493079608723871>)
+	- [阿尔弗雷特\-科尔托\-bilibili\-哔哩哔哩](<#bilibili-user-47218557>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-47218557.md>) | [url](<https://space.bilibili.com/47218557>)
 - [K](<#group-bilibili-user-by-category-K>)
-	- [茄子蒜泥儿\-bilibili\-哔哩哔哩](<#bilibili-user-98695167>) | [file](<bilibili/bilibili-user/bilibili-user-98695167.md>) | [url](<https://space.bilibili.com/98695167>)
-	- [历史影像馆\-bilibili\-哔哩哔哩](<#bilibili-user-269115278>) | [file](<bilibili/bilibili-user/bilibili-user-269115278.md>) | [url](<https://space.bilibili.com/269115278>)
+	- [茄子蒜泥儿\-bilibili\-哔哩哔哩](<#bilibili-user-98695167>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-98695167.md>) | [url](<https://space.bilibili.com/98695167>)
+	- [历史影像馆\-bilibili\-哔哩哔哩](<#bilibili-user-269115278>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-269115278.md>) | [url](<https://space.bilibili.com/269115278>)
 - [O1](<#group-bilibili-user-by-category-O1>)
-	- [PiKaChu345\-bilibili\-哔哩哔哩](<#bilibili-user-180947374>) | [file](<bilibili/bilibili-user/bilibili-user-180947374.md>) | [url](<https://space.bilibili.com/180947374>)
-	- [3Blue1Brown\-bilibili\-哔哩哔哩](<#bilibili-user-88461692>) | [file](<bilibili/bilibili-user/bilibili-user-88461692.md>) | [url](<https://space.bilibili.com/88461692>)
+	- [PiKaChu345\-bilibili\-哔哩哔哩](<#bilibili-user-180947374>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-180947374.md>) | [url](<https://space.bilibili.com/180947374>)
+	- [3Blue1Brown\-bilibili\-哔哩哔哩](<#bilibili-user-88461692>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-88461692.md>) | [url](<https://space.bilibili.com/88461692>)
 - [Q189](<#group-bilibili-user-by-category-Q189>)
-	- [杨雨坤\-Yukun\-bilibili\-哔哩哔哩](<#bilibili-user-339833006>) | [file](<bilibili/bilibili-user/bilibili-user-339833006.md>) | [url](<https://space.bilibili.com/339833006>)
+	- [杨雨坤\-Yukun\-bilibili\-哔哩哔哩](<#bilibili-user-339833006>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-339833006.md>) | [url](<https://space.bilibili.com/339833006>)
 - [R1](<#group-bilibili-user-by-category-R1>)
-	- [铁打的郎中\-bilibili\-哔哩哔哩](<#bilibili-user-413597883>) | [file](<bilibili/bilibili-user/bilibili-user-413597883.md>) | [url](<https://space.bilibili.com/413597883>)
-	- [Chubbyemu\-bilibili\-哔哩哔哩](<#bilibili-user-297786973>) | [file](<bilibili/bilibili-user/bilibili-user-297786973.md>) | [url](<https://space.bilibili.com/297786973>)
+	- [铁打的郎中\-bilibili\-哔哩哔哩](<#bilibili-user-413597883>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-413597883.md>) | [url](<https://space.bilibili.com/413597883>)
+	- [Chubbyemu\-bilibili\-哔哩哔哩](<#bilibili-user-297786973>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-297786973.md>) | [url](<https://space.bilibili.com/297786973>)
 - [TP](<#group-bilibili-user-by-category-TP>)
-	- [原子能\-bilibili\-哔哩哔哩](<#bilibili-user-162183>) | [file](<bilibili/bilibili-user/bilibili-user-162183.md>) | [url](<https://space.bilibili.com/162183>)
+	- [原子能\-bilibili\-哔哩哔哩](<#bilibili-user-162183>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-162183.md>) | [url](<https://space.bilibili.com/162183>)
 - [Z](<#group-bilibili-user-by-category-Z>)
-	- [bili\_62511222486\-bilibili\-哔哩哔哩](<#bilibili-user-689888414>) | [file](<bilibili/bilibili-user/bilibili-user-689888414.md>) | [url](<https://space.bilibili.com/689888414>)
+	- [bili\_62511222486\-bilibili\-哔哩哔哩](<#bilibili-user-689888414>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-689888414.md>) | [url](<https://space.bilibili.com/689888414>)
 
 ### group-bilibili-user-by-category-G
 
-- [道一又道\-bilibili\-哔哩哔哩](<#bilibili-user-3546706654268153>) | [file](<bilibili/bilibili-user/bilibili-user-3546706654268153.md>) | [url](<https://space.bilibili.com/3546706654268153>)
-- [认知刺客\-bilibili\-哔哩哔哩](<#bilibili-user-3546966132787579>) | [file](<bilibili/bilibili-user/bilibili-user-3546966132787579.md>) | [url](<https://space.bilibili.com/3546966132787579>)
-- [YouTube精选速递\-bilibili\-哔哩哔哩](<#bilibili-user-36141489>) | [file](<bilibili/bilibili-user/bilibili-user-36141489.md>) | [url](<https://space.bilibili.com/36141489/>)
+- [道一又道\-bilibili\-哔哩哔哩](<#bilibili-user-3546706654268153>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-3546706654268153.md>) | [url](<https://space.bilibili.com/3546706654268153>)
+- [认知刺客\-bilibili\-哔哩哔哩](<#bilibili-user-3546966132787579>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-3546966132787579.md>) | [url](<https://space.bilibili.com/3546966132787579>)
+- [YouTube精选速递\-bilibili\-哔哩哔哩](<#bilibili-user-36141489>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-36141489.md>) | [url](<https://space.bilibili.com/36141489/>)
 
 #### bilibili-user-3546706654268153
 
-[道一又道\-bilibili\-哔哩哔哩](<#bilibili-user-3546706654268153>) | [file](<bilibili/bilibili-user/bilibili-user-3546706654268153.md>) | [url](<https://space.bilibili.com/3546706654268153>)
+[道一又道\-bilibili\-哔哩哔哩](<#bilibili-user-3546706654268153>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-3546706654268153.md>) | [url](<https://space.bilibili.com/3546706654268153>)
 
 1V1论文辅导发表，毕业论文，中/英文会议普刊、中文核心、SCI、数模转学术论文等，S信咨询 关注gzh 【睿森科研】
 
@@ -880,7 +881,7 @@ Created at: 2026-02-03T04:10:07+08:00
 
 #### bilibili-user-3546966132787579
 
-[认知刺客\-bilibili\-哔哩哔哩](<#bilibili-user-3546966132787579>) | [file](<bilibili/bilibili-user/bilibili-user-3546966132787579.md>) | [url](<https://space.bilibili.com/3546966132787579>)
+[认知刺客\-bilibili\-哔哩哔哩](<#bilibili-user-3546966132787579>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-3546966132787579.md>) | [url](<https://space.bilibili.com/3546966132787579>)
 
 阳光下全是剧本，阴影里才有剧透。
 
@@ -902,7 +903,7 @@ Created at: 2026-01-26T14:08:00+08:00
 
 #### bilibili-user-36141489
 
-[YouTube精选速递\-bilibili\-哔哩哔哩](<#bilibili-user-36141489>) | [file](<bilibili/bilibili-user/bilibili-user-36141489.md>) | [url](<https://space.bilibili.com/36141489/>)
+[YouTube精选速递\-bilibili\-哔哩哔哩](<#bilibili-user-36141489>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-36141489.md>) | [url](<https://space.bilibili.com/36141489/>)
 
 认知提升、自我成长、思维模型、财富逻辑，成为更好的自己。
 
@@ -923,15 +924,15 @@ Created at: 2026-01-21T21:30:00+08:00
 
 ### group-bilibili-user-by-category-J2
 
-- [瑛之诗\-bilibili\-哔哩哔哩](<#bilibili-user-143432483>) | [file](<bilibili/bilibili-user/bilibili-user-143432483.md>) | [url](<https://space.bilibili.com/143432483>)
-- [隅野贝\-bilibili\-哔哩哔哩](<#bilibili-user-34106682>) | [file](<bilibili/bilibili-user/bilibili-user-34106682.md>) | [url](<https://space.bilibili.com/34106682>)
-- [风辰琳雪儿\-bilibili\-哔哩哔哩](<#bilibili-user-104880307>) | [file](<bilibili/bilibili-user/bilibili-user-104880307.md>) | [url](<https://space.bilibili.com/104880307>)
-- [伊吹继续生\-bilibili\-哔哩哔哩](<#bilibili-user-3493079608723871>) | [file](<bilibili/bilibili-user/bilibili-user-3493079608723871.md>) | [url](<https://space.bilibili.com/3493079608723871>)
-- [阿尔弗雷特\-科尔托\-bilibili\-哔哩哔哩](<#bilibili-user-47218557>) | [file](<bilibili/bilibili-user/bilibili-user-47218557.md>) | [url](<https://space.bilibili.com/47218557>)
+- [瑛之诗\-bilibili\-哔哩哔哩](<#bilibili-user-143432483>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-143432483.md>) | [url](<https://space.bilibili.com/143432483>)
+- [隅野贝\-bilibili\-哔哩哔哩](<#bilibili-user-34106682>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-34106682.md>) | [url](<https://space.bilibili.com/34106682>)
+- [风辰琳雪儿\-bilibili\-哔哩哔哩](<#bilibili-user-104880307>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-104880307.md>) | [url](<https://space.bilibili.com/104880307>)
+- [伊吹继续生\-bilibili\-哔哩哔哩](<#bilibili-user-3493079608723871>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-3493079608723871.md>) | [url](<https://space.bilibili.com/3493079608723871>)
+- [阿尔弗雷特\-科尔托\-bilibili\-哔哩哔哩](<#bilibili-user-47218557>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-47218557.md>) | [url](<https://space.bilibili.com/47218557>)
 
 #### bilibili-user-143432483
 
-[瑛之诗\-bilibili\-哔哩哔哩](<#bilibili-user-143432483>) | [file](<bilibili/bilibili-user/bilibili-user-143432483.md>) | [url](<https://space.bilibili.com/143432483>)
+[瑛之诗\-bilibili\-哔哩哔哩](<#bilibili-user-143432483>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-143432483.md>) | [url](<https://space.bilibili.com/143432483>)
 
 进群自取
 
@@ -953,7 +954,7 @@ Created at: 2025-09-16T07:51:03+08:00
 
 #### bilibili-user-34106682
 
-[隅野贝\-bilibili\-哔哩哔哩](<#bilibili-user-34106682>) | [file](<bilibili/bilibili-user/bilibili-user-34106682.md>) | [url](<https://space.bilibili.com/34106682>)
+[隅野贝\-bilibili\-哔哩哔哩](<#bilibili-user-34106682>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-34106682.md>) | [url](<https://space.bilibili.com/34106682>)
 
 No description
 
@@ -974,7 +975,7 @@ Created at: 2025-08-16T22:06:35+08:00
 
 #### bilibili-user-104880307
 
-[风辰琳雪儿\-bilibili\-哔哩哔哩](<#bilibili-user-104880307>) | [file](<bilibili/bilibili-user/bilibili-user-104880307.md>) | [url](<https://space.bilibili.com/104880307>)
+[风辰琳雪儿\-bilibili\-哔哩哔哩](<#bilibili-user-104880307>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-104880307.md>) | [url](<https://space.bilibili.com/104880307>)
 
 琳哥，琳姐，琳，这三个称呼都可以，不用太见外。
 
@@ -997,7 +998,7 @@ Created at: 2025-02-26T23:39:10+08:00
 
 #### bilibili-user-3493079608723871
 
-[伊吹继续生\-bilibili\-哔哩哔哩](<#bilibili-user-3493079608723871>) | [file](<bilibili/bilibili-user/bilibili-user-3493079608723871.md>) | [url](<https://space.bilibili.com/3493079608723871>)
+[伊吹继续生\-bilibili\-哔哩哔哩](<#bilibili-user-3493079608723871>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-3493079608723871.md>) | [url](<https://space.bilibili.com/3493079608723871>)
 
 多点关心多点爱，吃个伊吹补补钙，芒果味的小伊吹最美味啦！喜欢蔚蓝档案，战争雷霆，超级喜欢鹿乃的小鹿包一只
 
@@ -1019,7 +1020,7 @@ Created at: 2025-02-25T23:25:13+08:00
 
 #### bilibili-user-47218557
 
-[阿尔弗雷特\-科尔托\-bilibili\-哔哩哔哩](<#bilibili-user-47218557>) | [file](<bilibili/bilibili-user/bilibili-user-47218557.md>) | [url](<https://space.bilibili.com/47218557>)
+[阿尔弗雷特\-科尔托\-bilibili\-哔哩哔哩](<#bilibili-user-47218557>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-47218557.md>) | [url](<https://space.bilibili.com/47218557>)
 
 事星海附中2025届肛嫑の人柴 现为星海本科罓灬のsb
 
@@ -1042,12 +1043,12 @@ Created at: 2025-02-25T12:04:34+08:00
 
 ### group-bilibili-user-by-category-K
 
-- [茄子蒜泥儿\-bilibili\-哔哩哔哩](<#bilibili-user-98695167>) | [file](<bilibili/bilibili-user/bilibili-user-98695167.md>) | [url](<https://space.bilibili.com/98695167>)
-- [历史影像馆\-bilibili\-哔哩哔哩](<#bilibili-user-269115278>) | [file](<bilibili/bilibili-user/bilibili-user-269115278.md>) | [url](<https://space.bilibili.com/269115278>)
+- [茄子蒜泥儿\-bilibili\-哔哩哔哩](<#bilibili-user-98695167>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-98695167.md>) | [url](<https://space.bilibili.com/98695167>)
+- [历史影像馆\-bilibili\-哔哩哔哩](<#bilibili-user-269115278>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-269115278.md>) | [url](<https://space.bilibili.com/269115278>)
 
 #### bilibili-user-98695167
 
-[茄子蒜泥儿\-bilibili\-哔哩哔哩](<#bilibili-user-98695167>) | [file](<bilibili/bilibili-user/bilibili-user-98695167.md>) | [url](<https://space.bilibili.com/98695167>)
+[茄子蒜泥儿\-bilibili\-哔哩哔哩](<#bilibili-user-98695167>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-98695167.md>) | [url](<https://space.bilibili.com/98695167>)
 
 分享自己喜爱的电子游戏，偶有灵感也整个小剪辑啥的，感谢各位观众朋友观看
 
@@ -1070,7 +1071,7 @@ Created at: 2025-11-02T22:05:52+08:00
 
 #### bilibili-user-269115278
 
-[历史影像馆\-bilibili\-哔哩哔哩](<#bilibili-user-269115278>) | [file](<bilibili/bilibili-user/bilibili-user-269115278.md>) | [url](<https://space.bilibili.com/269115278>)
+[历史影像馆\-bilibili\-哔哩哔哩](<#bilibili-user-269115278>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-269115278.md>) | [url](<https://space.bilibili.com/269115278>)
 
 精力不足，喜欢懒觉 合作请加微信Yzz521357
 
@@ -1092,12 +1093,12 @@ Created at: 2025-09-19T16:46:48+08:00
 
 ### group-bilibili-user-by-category-O1
 
-- [PiKaChu345\-bilibili\-哔哩哔哩](<#bilibili-user-180947374>) | [file](<bilibili/bilibili-user/bilibili-user-180947374.md>) | [url](<https://space.bilibili.com/180947374>)
-- [3Blue1Brown\-bilibili\-哔哩哔哩](<#bilibili-user-88461692>) | [file](<bilibili/bilibili-user/bilibili-user-88461692.md>) | [url](<https://space.bilibili.com/88461692>)
+- [PiKaChu345\-bilibili\-哔哩哔哩](<#bilibili-user-180947374>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-180947374.md>) | [url](<https://space.bilibili.com/180947374>)
+- [3Blue1Brown\-bilibili\-哔哩哔哩](<#bilibili-user-88461692>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-88461692.md>) | [url](<https://space.bilibili.com/88461692>)
 
 #### bilibili-user-180947374
 
-[PiKaChu345\-bilibili\-哔哩哔哩](<#bilibili-user-180947374>) | [file](<bilibili/bilibili-user/bilibili-user-180947374.md>) | [url](<https://space.bilibili.com/180947374>)
+[PiKaChu345\-bilibili\-哔哩哔哩](<#bilibili-user-180947374>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-180947374.md>) | [url](<https://space.bilibili.com/180947374>)
 
 不会类比学不懂数学
 
@@ -1119,7 +1120,7 @@ Created at: 2025-08-16T21:53:51+08:00
 
 #### bilibili-user-88461692
 
-[3Blue1Brown\-bilibili\-哔哩哔哩](<#bilibili-user-88461692>) | [file](<bilibili/bilibili-user/bilibili-user-88461692.md>) | [url](<https://space.bilibili.com/88461692>)
+[3Blue1Brown\-bilibili\-哔哩哔哩](<#bilibili-user-88461692>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-88461692.md>) | [url](<https://space.bilibili.com/88461692>)
 
 中国官方账号。深入浅出、直观明了地分享数学之美。资助页面：www.patreon.com/3blue1brown
 
@@ -1140,11 +1141,11 @@ Created at: 2025-08-16T21:52:30+08:00
 
 ### group-bilibili-user-by-category-Q189
 
-- [杨雨坤\-Yukun\-bilibili\-哔哩哔哩](<#bilibili-user-339833006>) | [file](<bilibili/bilibili-user/bilibili-user-339833006.md>) | [url](<https://space.bilibili.com/339833006>)
+- [杨雨坤\-Yukun\-bilibili\-哔哩哔哩](<#bilibili-user-339833006>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-339833006.md>) | [url](<https://space.bilibili.com/339833006>)
 
 #### bilibili-user-339833006
 
-[杨雨坤\-Yukun\-bilibili\-哔哩哔哩](<#bilibili-user-339833006>) | [file](<bilibili/bilibili-user/bilibili-user-339833006.md>) | [url](<https://space.bilibili.com/339833006>)
+[杨雨坤\-Yukun\-bilibili\-哔哩哔哩](<#bilibili-user-339833006>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-339833006.md>) | [url](<https://space.bilibili.com/339833006>)
 
 CS PhD Student | 女儿4岁
 
@@ -1166,12 +1167,12 @@ Created at: 2025-11-08T21:43:06+08:00
 
 ### group-bilibili-user-by-category-R1
 
-- [铁打的郎中\-bilibili\-哔哩哔哩](<#bilibili-user-413597883>) | [file](<bilibili/bilibili-user/bilibili-user-413597883.md>) | [url](<https://space.bilibili.com/413597883>)
-- [Chubbyemu\-bilibili\-哔哩哔哩](<#bilibili-user-297786973>) | [file](<bilibili/bilibili-user/bilibili-user-297786973.md>) | [url](<https://space.bilibili.com/297786973>)
+- [铁打的郎中\-bilibili\-哔哩哔哩](<#bilibili-user-413597883>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-413597883.md>) | [url](<https://space.bilibili.com/413597883>)
+- [Chubbyemu\-bilibili\-哔哩哔哩](<#bilibili-user-297786973>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-297786973.md>) | [url](<https://space.bilibili.com/297786973>)
 
 #### bilibili-user-413597883
 
-[铁打的郎中\-bilibili\-哔哩哔哩](<#bilibili-user-413597883>) | [file](<bilibili/bilibili-user/bilibili-user-413597883.md>) | [url](<https://space.bilibili.com/413597883>)
+[铁打的郎中\-bilibili\-哔哩哔哩](<#bilibili-user-413597883>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-413597883.md>) | [url](<https://space.bilibili.com/413597883>)
 
 一听就懂的眼睛科普/杭州工作室验配预约v:langzhong6069/国家十三五规划教材《眼镜学》第三版编委
 
@@ -1192,7 +1193,7 @@ Created at: 2025-10-09T14:35:58+08:00
 
 #### bilibili-user-297786973
 
-[Chubbyemu\-bilibili\-哔哩哔哩](<#bilibili-user-297786973>) | [file](<bilibili/bilibili-user/bilibili-user-297786973.md>) | [url](<https://space.bilibili.com/297786973>)
+[Chubbyemu\-bilibili\-哔哩哔哩](<#bilibili-user-297786973>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-297786973.md>) | [url](<https://space.bilibili.com/297786973>)
 
 胖鸸鹋Chubbyemu官方频道~商务合作请联系邮箱 hello@Chubbyemu.com
 
@@ -1213,11 +1214,11 @@ Created at: 2025-10-05T01:44:29+08:00
 
 ### group-bilibili-user-by-category-TP
 
-- [原子能\-bilibili\-哔哩哔哩](<#bilibili-user-162183>) | [file](<bilibili/bilibili-user/bilibili-user-162183.md>) | [url](<https://space.bilibili.com/162183>)
+- [原子能\-bilibili\-哔哩哔哩](<#bilibili-user-162183>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-162183.md>) | [url](<https://space.bilibili.com/162183>)
 
 #### bilibili-user-162183
 
-[原子能\-bilibili\-哔哩哔哩](<#bilibili-user-162183>) | [file](<bilibili/bilibili-user/bilibili-user-162183.md>) | [url](<https://space.bilibili.com/162183>)
+[原子能\-bilibili\-哔哩哔哩](<#bilibili-user-162183>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-162183.md>) | [url](<https://space.bilibili.com/162183>)
 
 资深程序员/架构师/产品经理，喜欢分享“非常主观”的软件技术理念、编程开发思维、职场经验等。商务合作请联系：yuanzinengswhz
 
@@ -1240,11 +1241,11 @@ Created at: 2025-11-11T15:10:53+08:00
 
 ### group-bilibili-user-by-category-Z
 
-- [bili\_62511222486\-bilibili\-哔哩哔哩](<#bilibili-user-689888414>) | [file](<bilibili/bilibili-user/bilibili-user-689888414.md>) | [url](<https://space.bilibili.com/689888414>)
+- [bili\_62511222486\-bilibili\-哔哩哔哩](<#bilibili-user-689888414>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-689888414.md>) | [url](<https://space.bilibili.com/689888414>)
 
 #### bilibili-user-689888414
 
-[bili\_62511222486\-bilibili\-哔哩哔哩](<#bilibili-user-689888414>) | [file](<bilibili/bilibili-user/bilibili-user-689888414.md>) | [url](<https://space.bilibili.com/689888414>)
+[bili\_62511222486\-bilibili\-哔哩哔哩](<#bilibili-user-689888414>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-689888414.md>) | [url](<https://space.bilibili.com/689888414>)
 
 No description
 
@@ -1261,3 +1262,181 @@ Created at: 2025-11-02T21:38:11+08:00
 | up | [collection\-bilibili\-user](<docs/collection/collection-bilibili-user.md>) |
 | aliases | bili\_62511222486\-bilibili\-哔哩哔哩 |
 | mtime | 2025-11-14T10:15:36+08:00 |
+
+## tags
+
+- #2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献 | 1
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- #本子分享 | 1
+	- [阿尔弗雷特\-科尔托\-bilibili\-哔哩哔哩](<#bilibili-user-47218557>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-47218557.md>) | [url](<https://space.bilibili.com/47218557>)
+- #哔哩哔哩 | 1
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- #博士 | 1
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- #产品经理 | 1
+	- [原子能\-bilibili\-哔哩哔哩](<#bilibili-user-162183>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-162183.md>) | [url](<https://space.bilibili.com/162183>)
+- #程序员 | 1
+	- [原子能\-bilibili\-哔哩哔哩](<#bilibili-user-162183>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-162183.md>) | [url](<https://space.bilibili.com/162183>)
+- #大学 | 1
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- #弹幕 | 1
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- #档案 | 1
+	- [历史影像馆\-bilibili\-哔哩哔哩](<#bilibili-user-269115278>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-269115278.md>) | [url](<https://space.bilibili.com/269115278>)
+- #读书分享 | 1
+	- [安争鸣（Stella An） \- YouTube](<#youtube-channel-UCBNpk9A7simOnmlcJPkxg5w>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCBNpk9A7simOnmlcJPkxg5w.md>) | [url](<https://www.youtube.com/channel/UCBNpk9A7simOnmlcJPkxg5w>)
+- #反共 | 1
+	- [多伦多方脸 \- YouTube](<#youtube-channel-UCzYYzigb1vXR0GQXXBja2kg>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCzYYzigb1vXR0GQXXBja2kg.md>) | [url](<https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg>)
+- #费曼学习法 | 1
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- #分享 | 1
+	- [瑛之诗\-bilibili\-哔哩哔哩](<#bilibili-user-143432483>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-143432483.md>) | [url](<https://space.bilibili.com/143432483>)
+- #干货分享 | 1
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- #高等数学 | 1
+	- [3Blue1Brown\-bilibili\-哔哩哔哩](<#bilibili-user-88461692>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-88461692.md>) | [url](<https://space.bilibili.com/88461692>)
+- #高效学习 | 1
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- #个人成长 | 1
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- #画师 | 1
+	- [隅野贝\-bilibili\-哔哩哔哩](<#bilibili-user-34106682>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-34106682.md>) | [url](<https://space.bilibili.com/34106682>)
+- #黄油 | 3
+	- [銷售超過8萬份的酪梨純愛遊戲 ?\! 這款作品為什麼這麼強 ? 【酪梨好好吃】 \- YouTube](<#youtube-video-89ZUjfKw-88>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-89ZUjfKw-88.md>) | [url](<https://www.youtube.com/watch?v=89ZUjfKw-88>)
+	- [這款網遊九成以上角色都是酪梨 \! 這款遊戲真的沒問題嗎? \- YouTube](<#youtube-video-qM-8TtSMS04>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-qM-8TtSMS04.md>) | [url](<https://www.youtube.com/watch?v=qM-8TtSMS04>)
+	- [神聖蘿碼帝國\-小宇🔞 \- YouTube](<#youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q.md>) | [url](<https://www.youtube.com/channel/UCXlXvZRqoiSFso7hfoAnw3Q>)
+- #计划学习 | 1
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- #记忆 | 1
+	- [杨雨坤\-Yukun\-bilibili\-哔哩哔哩](<#bilibili-user-339833006>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-339833006.md>) | [url](<https://space.bilibili.com/339833006>)
+- #架构师 | 1
+	- [原子能\-bilibili\-哔哩哔哩](<#bilibili-user-162183>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-162183.md>) | [url](<https://space.bilibili.com/162183>)
+- #渐进式总结笔记法 | 1
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- #近现代史 | 1
+	- [历史影像馆\-bilibili\-哔哩哔哩](<#bilibili-user-269115278>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-269115278.md>) | [url](<https://space.bilibili.com/269115278>)
+- #经验分享 | 3
+	- [I'm 57\. If you're in your 20's please watch this\. \- YouTube](<#youtube-video-FylHa4_neOA>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-FylHa4_neOA.md>) | [url](<https://www.youtube.com/watch?v=FylHa4_neOA>)
+	- [Mark Tilbury \- YouTube](<#youtube-channel-UCxgAuX3XZROujMmGphN_scA>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCxgAuX3XZROujMmGphN_scA.md>) | [url](<https://www.youtube.com/channel/UCxgAuX3XZROujMmGphN_scA>)
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- #军事 | 1
+	- [茄子蒜泥儿\-bilibili\-哔哩哔哩](<#bilibili-user-98695167>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-98695167.md>) | [url](<https://space.bilibili.com/98695167>)
+- #科技 | 2
+	- [创新中国\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md58712>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md58712.md>) | [url](<https://www.bilibili.com/bangumi/media/md58712>)
+	- [短路的大脑 第一季\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28220437>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28220437.md>) | [url](<https://www.bilibili.com/bangumi/media/md28220437>)
+- #科研论文 | 1
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- #可视化 | 1
+	- [3Blue1Brown\-bilibili\-哔哩哔哩](<#bilibili-user-88461692>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-88461692.md>) | [url](<https://space.bilibili.com/88461692>)
+- #刻意练习 | 1
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- #刻意学习 | 1
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- #课程 | 1
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- #历史 | 3
+	- [大国崛起\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28233889>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28233889.md>) | [url](<https://www.bilibili.com/bangumi/media/md28233889>)
+	- [茄子蒜泥儿\-bilibili\-哔哩哔哩](<#bilibili-user-98695167>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-98695167.md>) | [url](<https://space.bilibili.com/98695167>)
+	- [历史影像馆\-bilibili\-哔哩哔哩](<#bilibili-user-269115278>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-269115278.md>) | [url](<https://space.bilibili.com/269115278>)
+- #列表 | 1
+	- [【枫说】洗脑程度测试：盘点中共打进人们脑海中的十个思想钢印。连马斯克都中招了 \- YouTube](<#youtube-video-m0WEYBL538I>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-m0WEYBL538I.md>) | [url](<https://www.youtube.com/watch?v=m0WEYBL538I>)
+- #临床医学 | 1
+	- [Chubbyemu\-bilibili\-哔哩哔哩](<#bilibili-user-297786973>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-297786973.md>) | [url](<https://space.bilibili.com/297786973>)
+- #录像 | 1
+	- [历史影像馆\-bilibili\-哔哩哔哩](<#bilibili-user-269115278>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-269115278.md>) | [url](<https://space.bilibili.com/269115278>)
+- #萝莉 | 3
+	- [銷售超過8萬份的酪梨純愛遊戲 ?\! 這款作品為什麼這麼強 ? 【酪梨好好吃】 \- YouTube](<#youtube-video-89ZUjfKw-88>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-89ZUjfKw-88.md>) | [url](<https://www.youtube.com/watch?v=89ZUjfKw-88>)
+	- [這款網遊九成以上角色都是酪梨 \! 這款遊戲真的沒問題嗎? \- YouTube](<#youtube-video-qM-8TtSMS04>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-qM-8TtSMS04.md>) | [url](<https://www.youtube.com/watch?v=qM-8TtSMS04>)
+	- [神聖蘿碼帝國\-小宇🔞 \- YouTube](<#youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q.md>) | [url](<https://www.youtube.com/channel/UCXlXvZRqoiSFso7hfoAnw3Q>)
+- #美少女游戏 | 3
+	- [銷售超過8萬份的酪梨純愛遊戲 ?\! 這款作品為什麼這麼強 ? 【酪梨好好吃】 \- YouTube](<#youtube-video-89ZUjfKw-88>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-89ZUjfKw-88.md>) | [url](<https://www.youtube.com/watch?v=89ZUjfKw-88>)
+	- [這款網遊九成以上角色都是酪梨 \! 這款遊戲真的沒問題嗎? \- YouTube](<#youtube-video-qM-8TtSMS04>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-qM-8TtSMS04.md>) | [url](<https://www.youtube.com/watch?v=qM-8TtSMS04>)
+	- [乡间的暑假生活，这光把男主介绍给全村人就十几分钟，我的天。。。。。。\_单机游戏热门视频\_哔哩哔哩\_bilibili](<#bilibili-video-BV1Fv411N7Rq>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1Fv411N7Rq.md>) | [url](<https://www.bilibili.com/video/BV1Fv411N7Rq>)
+- #妹妹 | 1
+	- [隅野贝\-bilibili\-哔哩哔哩](<#bilibili-user-34106682>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-34106682.md>) | [url](<https://space.bilibili.com/34106682>)
+- #内化学习 | 1
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- #内科学 | 1
+	- [Chubbyemu\-bilibili\-哔哩哔哩](<#bilibili-user-297786973>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-297786973.md>) | [url](<https://space.bilibili.com/297786973>)
+- #年度宝藏知识 | 1
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- #人文 | 1
+	- [大国崛起\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md28233889>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md28233889.md>) | [url](<https://www.bilibili.com/bangumi/media/md28233889>)
+- #认知觉醒 | 1
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- #三三制学习 | 1
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- #社会 | 1
+	- [创新中国\-纪录片\-bilibili\-哔哩哔哩](<#bilibili-bangumi-media-md58712>) | [home](<#video>) | [file](<bilibili/bilibili-bangumi/bilibili-bangumi-media-md58712.md>) | [url](<https://www.bilibili.com/bangumi/media/md58712>)
+- #时事 | 1
+	- [多伦多方脸 \- YouTube](<#youtube-channel-UCzYYzigb1vXR0GQXXBja2kg>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCzYYzigb1vXR0GQXXBja2kg.md>) | [url](<https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg>)
+- #数学笔记 | 1
+	- [PiKaChu345\-bilibili\-哔哩哔哩](<#bilibili-user-180947374>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-180947374.md>) | [url](<https://space.bilibili.com/180947374>)
+- #思维升级 | 1
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- #同济大学 | 1
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- #文献阅读 | 1
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- #文学 | 1
+	- [安争鸣（Stella An） \- YouTube](<#youtube-channel-UCBNpk9A7simOnmlcJPkxg5w>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCBNpk9A7simOnmlcJPkxg5w.md>) | [url](<https://www.youtube.com/channel/UCBNpk9A7simOnmlcJPkxg5w>)
+- #西蒙学习法 | 1
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- #幸福家里蹲的養成方法 | 1
+	- [銷售超過8萬份的酪梨純愛遊戲 ?\! 這款作品為什麼這麼強 ? 【酪梨好好吃】 \- YouTube](<#youtube-video-89ZUjfKw-88>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-89ZUjfKw-88.md>) | [url](<https://www.youtube.com/watch?v=89ZUjfKw-88>)
+- #宣传 | 1
+	- [【枫说】洗脑程度测试：盘点中共打进人们脑海中的十个思想钢印。连马斯克都中招了 \- YouTube](<#youtube-video-m0WEYBL538I>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-m0WEYBL538I.md>) | [url](<https://www.youtube.com/watch?v=m0WEYBL538I>)
+- #学习 | 1
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- #学习方法 | 3
+	- [马斯克等大佬是怎么记住这么多知识的？【考试脑科学】 \- YouTube](<#youtube-video-VSe7Uhi4jTQ>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-VSe7Uhi4jTQ.md>) | [url](<https://www.youtube.com/watch?v=VSe7Uhi4jTQ>)
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+	- [PiKaChu345\-bilibili\-哔哩哔哩](<#bilibili-user-180947374>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-180947374.md>) | [url](<https://space.bilibili.com/180947374>)
+- #学习心得 | 1
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- #眼科学 | 1
+	- [铁打的郎中\-bilibili\-哔哩哔哩](<#bilibili-user-413597883>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-413597883.md>) | [url](<https://space.bilibili.com/413597883>)
+- #艺术 | 1
+	- [3Blue1Brown\-bilibili\-哔哩哔哩](<#bilibili-user-88461692>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-88461692.md>) | [url](<https://space.bilibili.com/88461692>)
+- #音乐 | 1
+	- [阿尔弗雷特\-科尔托\-bilibili\-哔哩哔哩](<#bilibili-user-47218557>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-47218557.md>) | [url](<https://space.bilibili.com/47218557>)
+- #游戏分享 | 3
+	- [銷售超過8萬份的酪梨純愛遊戲 ?\! 這款作品為什麼這麼強 ? 【酪梨好好吃】 \- YouTube](<#youtube-video-89ZUjfKw-88>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-89ZUjfKw-88.md>) | [url](<https://www.youtube.com/watch?v=89ZUjfKw-88>)
+	- [這款網遊九成以上角色都是酪梨 \! 這款遊戲真的沒問題嗎? \- YouTube](<#youtube-video-qM-8TtSMS04>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-qM-8TtSMS04.md>) | [url](<https://www.youtube.com/watch?v=qM-8TtSMS04>)
+	- [神聖蘿碼帝國\-小宇🔞 \- YouTube](<#youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCXlXvZRqoiSFso7hfoAnw3Q.md>) | [url](<https://www.youtube.com/channel/UCXlXvZRqoiSFso7hfoAnw3Q>)
+- #预防医学 | 2
+	- [铁打的郎中\-bilibili\-哔哩哔哩](<#bilibili-user-413597883>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-413597883.md>) | [url](<https://space.bilibili.com/413597883>)
+	- [Chubbyemu\-bilibili\-哔哩哔哩](<#bilibili-user-297786973>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-297786973.md>) | [url](<https://space.bilibili.com/297786973>)
+- #涨知识 | 1
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- #政治 | 3
+	- [【枫说】洗脑程度测试：盘点中共打进人们脑海中的十个思想钢印。连马斯克都中招了 \- YouTube](<#youtube-video-m0WEYBL538I>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-m0WEYBL538I.md>) | [url](<https://www.youtube.com/watch?v=m0WEYBL538I>)
+	- [多伦多方脸 \- YouTube](<#youtube-channel-UCzYYzigb1vXR0GQXXBja2kg>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCzYYzigb1vXR0GQXXBja2kg.md>) | [url](<https://www.youtube.com/channel/UCzYYzigb1vXR0GQXXBja2kg>)
+	- [安争鸣（Stella An） \- YouTube](<#youtube-channel-UCBNpk9A7simOnmlcJPkxg5w>) | [home](<#video>) | [file](<youtube/youtube-channel/youtube-channel-UCBNpk9A7simOnmlcJPkxg5w.md>) | [url](<https://www.youtube.com/channel/UCBNpk9A7simOnmlcJPkxg5w>)
+- #知识 | 1
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- #自我提升 | 1
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- #作者声明：该视频使用人工智能合成技术 | 1
+	- [西蒙学习法：六个月成为任何领域专家的科学公式。为什么有人学一次记一辈子？诺奖得主发现了大脑存储的秘密。\_哔哩哔哩\_bilibili](<#bilibili-video-BV1W9zyBaEf2>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1W9zyBaEf2.md>) | [url](<https://www.bilibili.com/video/BV1W9zyBaEf2/>)
+- #abc202306 | 1
+	- [bili\_62511222486\-bilibili\-哔哩哔哩](<#bilibili-user-689888414>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-689888414.md>) | [url](<https://space.bilibili.com/689888414>)
+- #ACG | 4
+	- [乡间的暑假生活，这光把男主介绍给全村人就十几分钟，我的天。。。。。。\_单机游戏热门视频\_哔哩哔哩\_bilibili](<#bilibili-video-BV1Fv411N7Rq>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1Fv411N7Rq.md>) | [url](<https://www.bilibili.com/video/BV1Fv411N7Rq>)
+	- [伊吹：当天的错误就要当天教育哦\_哔哩哔哩\_bilibili](<#bilibili-video-BV1JSr7YZE1V>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1JSr7YZE1V.md>) | [url](<https://www.bilibili.com/video/BV1JSr7YZE1V>)
+	- [真可爱捏~\_哔哩哔哩\_bilibili](<#bilibili-video-BV1u3411a7qy>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1u3411a7qy.md>) | [url](<https://www.bilibili.com/video/BV1u3411a7qy>)
+	- [隅野贝\-bilibili\-哔哩哔哩](<#bilibili-user-34106682>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-34106682.md>) | [url](<https://space.bilibili.com/34106682>)
+- #B站 | 1
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- #bilibili | 1
+	- [2026最新分享，如何做好文献阅读及笔记整理，同济大学博士手把手教你阅读文献\_哔哩哔哩\_bilibili](<#bilibili-video-BV1L3zFBWEFV>) | [home](<#video>) | [file](<bilibili/bilibili-video/bilibili-video-BV1L3zFBWEFV.md>) | [url](<https://www.bilibili.com/video/BV1L3zFBWEFV>)
+- #bilibili知名科技UP主 | 1
+	- [原子能\-bilibili\-哔哩哔哩](<#bilibili-user-162183>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-162183.md>) | [url](<https://space.bilibili.com/162183>)
+- #GalGame | 1
+	- [瑛之诗\-bilibili\-哔哩哔哩](<#bilibili-user-143432483>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-143432483.md>) | [url](<https://space.bilibili.com/143432483>)
+- #Obsidian | 1
+	- [PiKaChu345\-bilibili\-哔哩哔哩](<#bilibili-user-180947374>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-180947374.md>) | [url](<https://space.bilibili.com/180947374>)
+- #QQ群 | 1
+	- [瑛之诗\-bilibili\-哔哩哔哩](<#bilibili-user-143432483>) | [home](<#video>) | [file](<bilibili/bilibili-user/bilibili-user-143432483.md>) | [url](<https://space.bilibili.com/143432483>)
+- #りりぃあんじぇ | 1
+	- [這款網遊九成以上角色都是酪梨 \! 這款遊戲真的沒問題嗎? \- YouTube](<#youtube-video-qM-8TtSMS04>) | [home](<#video>) | [file](<youtube/youtube-video/youtube-video-qM-8TtSMS04.md>) | [url](<https://www.youtube.com/watch?v=qM-8TtSMS04>)
